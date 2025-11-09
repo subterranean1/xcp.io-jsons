@@ -1,1 +1,835 @@
-
+{
+  "collectionName": "LFG Collection",
+  "collectionSlug": "lfg-collection",
+  "collectionLink": "https://www.xcp.io/collect/lfg-collection",
+  "series": [
+    {
+      "seriesName": "LFG1",
+      "seriesNumber": 1,
+      "cards": [
+        {
+          "asset": "UNITECRYPTO",
+          "cardName": "UNITECRYPTO",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/bcapNdnHiks-dvSmi7UJQcbaAq7pZLudBzsPcFFtuHE/unitecrypto.jpg",
+          "minted": 315,
+          "link": "https://www.xcp.io/asset/UNITECRYPTO"
+        },
+        {
+          "asset": "LFGOPEPE",
+          "cardName": "LFGOPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Us5dnEhXDwi8hTkN3OMA3f98iLm3OLh7BWIRbyeNj_A/lfgopepe.jpg",
+          "minted": 11,
+          "link": "https://www.xcp.io/asset/LFGOPEPE"
+        },
+        {
+          "asset": "LFGSUBMIT",
+          "cardName": "LFGSUBMIT",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/couPTl8PWJXKvCmolzYKSTw1gx4bGbrq9EtKvtfk6G8/lfgsubmit.jpg",
+          "minted": 2227,
+          "link": "https://www.xcp.io/asset/LFGSUBMIT"
+        },
+        {
+          "asset": "LFGORBITAL",
+          "cardName": "LFGORBITAL",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/GdfXul4WiW_NnXSXTmYoGHI6c0VjxFy605wPesGP6JE/lfgorbital.jpg",
+          "minted": 451,
+          "link": "https://www.xcp.io/asset/LFGORBITAL"
+        },
+        {
+          "asset": "PEPETRUMPFGT",
+          "cardName": "PEPETRUMPFGT",
+          "creatorName": "Hariram",
+          "creatorSocial": "https://x.com/HOchangco",
+          "image": "https://arweave.net/Et3zqt9TSvhVLARav_XVFjCXPZRwqPaQfcp_Qd-RtTY/pepetrumpfgt.jpg",
+          "minted": 300,
+          "link": "https://www.xcp.io/asset/PEPETRUMPFGT"
+        },
+        {
+          "asset": "TRUMPWOJAK",
+          "cardName": "TRUMPWOJAK",
+          "creatorName": "Hariram",
+          "creatorSocial": "https://x.com/HOchangco",
+          "image": "https://arweave.net/aYYUPcgX1dwQhaF6XEv_coMbFg0O2nas2exPIr0e9eA/trumpwojak.jpg",
+          "minted": 150,
+          "link": "https://www.xcp.io/asset/TRUMPWOJAK"
+        },
+        {
+          "asset": "LFGFRIEND",
+          "cardName": "LFGFRIEND",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/pOQERw4yJKDqfJ-BVSkl-k1Jlk0_vONMKlo7GVXto_s/lfgfriend.jpg",
+          "minted": 100,
+          "link": "https://www.xcp.io/asset/LFGFRIEND"
+        },
+        {
+          "asset": "LFGMARKET",
+          "cardName": "LFGMARKET",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/Zv63-5_89xJ5KLqOvn6c76G92Bf2TDMRXUicpnAYKPo/lfgmarket.jpg",
+          "minted": 100,
+          "link": "https://www.xcp.io/asset/LFGMARKET"
+        },
+        {
+          "asset": "LFGTENNIS",
+          "cardName": "LFGTENNIS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/mJz4Z2mhGmK63t7LpjT0QYs4BoH7OzAnB7J46M5TxPg/lfgtennis.jpg",
+          "minted": 88,
+          "link": "https://www.xcp.io/asset/LFGTENNIS"
+        },
+        {
+          "asset": "LFGLUTNICK",
+          "cardName": "LFGLUTNICK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/KAmwVX76ZhOtA9kic-S3c7jn_pPcL3mgAA7SYDlqEGk/lfglutnick.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/LFGLUTNICK"
+        },
+        {
+          "asset": "JUSTICELFG",
+          "cardName": "JUSTICELFG",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/4ySvpd7vPZitLVCqHNlBRY4fOmcSc6UJuzfGz8AA7-g/justicelfg.png",
+          "minted": 222,
+          "link": "https://www.xcp.io/asset/JUSTICELFG"
+        },
+        {
+          "asset": "PAPETOLFG",
+          "cardName": "PAPETOLFG",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/3hCpimIDmyhayMQzUFKl7PLPHfhzCwlmm-OjhqBTR-s/papetolfg.gif",
+          "minted": 100,
+          "link": "https://www.xcp.io/asset/PAPETOLFG"
+        },
+        {
+          "asset": "LFGOFFICIAL",
+          "cardName": "LFGOFFICIAL",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/BJwkr210bU_DwpmZz2YVAuu8ivcJER_I2yb5laVWMuk/lfgofficial.jpg",
+          "minted": 88,
+          "link": "https://www.xcp.io/asset/LFGOFFICIAL"
+        },
+        {
+          "asset": "LFGMATHS",
+          "cardName": "LFGMATHS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/RGRYa7Y2QwNzcvI0CciiXKa_96NN3o-lx3lZuxvLXe4/lfgmaths.jpg",
+          "minted": 10,
+          "link": "https://www.xcp.io/asset/LFGMATHS"
+        },
+        {
+          "asset": "PEPEPATEL",
+          "cardName": "PEPEPATEL",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/-dylmpxV8NY348ZPGVXDffXPSX9atFEvohZJlG5f4BY/pepepatel.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/PEPEPATEL"
+        },
+        {
+          "asset": "TREASURYPEPE",
+          "cardName": "TREASURYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/hPPCj0nvFUMei-NtrtZWqndNwXAAR2vffmvxz1Dtx2I/treasurypepe.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/TREASURYPEPE"
+        },
+        {
+          "asset": "PEPEJDOG",
+          "cardName": "PEPEJDOG",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/_KwYu6GnzwdqStcIzrb8-maRRc3Wzkwez_okth-ORFI/pepejdog.jpg",
+          "minted": 28,
+          "link": "https://www.xcp.io/asset/PEPEJDOG"
+        },
+        {
+          "asset": "GMPEPES",
+          "cardName": "GMPEPES",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/VWd1W_xZDRr4C9IgErXOWeSCUtsrrcEnE384cYKt6pw/gmpepes.jpg",
+          "minted": 111,
+          "link": "https://www.xcp.io/asset/GMPEPES"
+        },
+        {
+          "asset": "BONDIPEPE",
+          "cardName": "BONDIPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/38DUyFaoTLYTF8cPnfqM0Xk3UpRUZNvXVuWJzqyWrck/bondipepe.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/BONDIPEPE"
+        },
+        {
+          "asset": "CRYPTOCZAR",
+          "cardName": "CRYPTOCZAR",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/VbzLQDv5ZIr9IBelKZ3y74Z-4bC3wJ5ez_dOQcKWFiw/cryptoczar.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/CRYPTOCZAR"
+        },
+        {
+          "asset": "ORANGEFIGHT",
+          "cardName": "ORANGEFIGHT",
+          "creatorName": "GabDevs",
+          "creatorSocial": "https://twitter.com/GabDevs",
+          "image": "https://arweave.net/MgdmlCmI9S30l669QcFPX1VaXXQZ24zz5mhL9V56j3g/orangefight.png",
+          "minted": 82,
+          "link": "https://www.xcp.io/asset/ORANGEFIGHT"
+        },
+        {
+          "asset": "PEPELUMMIS",
+          "cardName": "PEPELUMMIS",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Fk0MiYOPfXtjcHVaWMlqrgktE9BXxecJJbiPp0m3dlk/pepelummis.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/PEPELUMMIS"
+        },
+        {
+          "asset": "LFGEVOLVE",
+          "cardName": "LFGEVOLVE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/mjK1yYK6KyBkzHf8yfBfP_RDc96tRwdaIgf3Vjx4afQ/lfgevolve.jpg",
+          "minted": 10,
+          "link": "https://www.xcp.io/asset/LFGEVOLVE"
+        },
+        {
+          "asset": "FAKTELEPHONE",
+          "cardName": "FAKTELEPHONE",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/zeC4klw39-oEynLk-XdxbWBOSSJ2WNZizAvcTy0xH4s/faketelephone.png",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/FAKTELEPHONE"
+        },
+        {
+          "asset": "PROJECTKNIFE",
+          "cardName": "PROJECTKNIFE",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/jllsl1AA-qCPSyf4RamyhUvW4mJvTk_qjqz8NEMq9Gg/projectknife.jpg",
+          "minted": 25,
+          "link": "https://www.xcp.io/asset/PROJECTKNIFE"
+        },
+        {
+          "asset": "NRFTW",
+          "cardName": "NRFTW",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/2NHJ1BcOerQovtTDqKWf0WWZriQwQXiz4OGr2KoTFNs/nrftw.mp4",
+          "minted": 22,
+          "link": "https://www.xcp.io/asset/NRFTW"
+        },
+        {
+          "asset": "MEETLENNY",
+          "cardName": "MEETLENNY",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Au4oXkc2FEQsgIu18AuxmPJCQJTXon4nLPwdalPAz4U/meetlenny.jpg",
+          "minted": 27,
+          "link": "https://www.xcp.io/asset/MEETLENNY"
+        },
+        {
+          "asset": "PEPEINCOMMON",
+          "cardName": "PEPEINCOMMON",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/9VRAKQuusfXv4p5PAOlMDMh-VG_BFPuUlvqVAN3rqeY/pepeincommon.jpg",
+          "minted": 27,
+          "link": "https://www.xcp.io/asset/PEPEINCOMMON"
+        },
+        {
+          "asset": "LFGBANANAS",
+          "cardName": "LFGBANANAS",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/HB31F8YCQYINZugJ6cUJJpZk1rokTDEGv6VTlXx2pVo/lfgbananas.jpg",
+          "minted": 100,
+          "link": "https://www.xcp.io/asset/LFGBANANAS"
+        },
+        {
+          "asset": "CODYSAYSTHNX",
+          "cardName": "CODYSAYSTHNX",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/D8Rx13JJP6Z2UIDLWRwLZm2PXUfVUSQ2nfEuJZ6sZco/codysaysthnx.jpg",
+          "minted": 315,
+          "link": "https://www.xcp.io/asset/CODYSAYSTHNX"
+        },
+        {
+          "asset": "LFGROOM",
+          "cardName": "LFGROOM",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/L5lut4UL_Y1DeQwed1vsJgZkdkxBLZlnui9baQHfCbY/lfgroom.jpg",
+          "minted": 55,
+          "link": "https://www.xcp.io/asset/LFGROOM"
+        }
+      ]
+    },
+    {
+      "seriesName": "LFG2",
+      "seriesNumber": 2,
+      "cards": [
+        {
+          "asset": "PEPEPAUL",
+          "cardName": "PEPEPAUL",
+          "creatorName": "subterranean",
+          "creatorSocial": "https://x.com/subterranean_1",
+          "image": "https://arweave.net/Ui-500QieyPa0tPwODJXCKmBbtllxCY5QjmOqA3RhZ0/pepepaul.gif",
+          "minted": 33,
+          "link": "https://www.xcp.io/asset/PEPEPAUL"
+        },
+        {
+          "asset": "CHESSBOYS",
+          "cardName": "CHESSBOYS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/DYMM1X5VrBI9D-c16RfvAeMkqFCtCfwV6pNzOl-fMqs/chessboys.jpg",
+          "minted": 55,
+          "link": "https://www.xcp.io/asset/CHESSBOYS"
+        },
+        {
+          "asset": "LFGOBSERVER",
+          "cardName": "LFGOBSERVER",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/TIFOp9Wkf7zkO1IGI1Vfe7JfTznVX09_R_riBnJskXs/lfgobserver.jpg",
+          "minted": 55,
+          "link": "https://www.xcp.io/asset/LFGOBSERVER"
+        },
+        {
+          "asset": "LFGAFRODITE",
+          "cardName": "LFGAFRODITE",
+          "creatorName": "Robenira",
+          "creatorSocial": "https://x.com/Robenirart",
+          "image": "https://arweave.net/kWAiQ3Uiwu5JS2uDgCksj8ForGxHmE-3thbBmq-vdrQ/lfgafrodite.jpg",
+          "minted": 33,
+          "link": "https://www.xcp.io/asset/LFGAFRODITE"
+        },
+        {
+          "asset": "LFGSPEAKER",
+          "cardName": "LFGSPEAKER",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/jOhi8v2JLeZOHQr2dJW5zbndrsNedG5oGvsMOk6gGQc/lfgspeaker.jpg",
+          "minted": 55,
+          "link": "https://www.xcp.io/asset/LFGSPEAKER"
+        },
+        {
+          "asset": "LFGCOLLECTOR",
+          "cardName": "LFGCOLLECTOR",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/qZA791lfryjbkbKlXTCGaL5A7yOfk4EioESLZODFJJs/lfgcollector.jpg",
+          "minted": 222,
+          "link": "https://www.xcp.io/asset/LFGCOLLECTOR"
+        },
+        {
+          "asset": "EHOKAYPEPE",
+          "cardName": "EHOKAYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Nd7KSKG6SXjAnaE-fkLuTdCltX30afncjG28OcwnNxo/ehokaypepe.jpg",
+          "minted": 169,
+          "link": "https://www.xcp.io/asset/EHOKAYPEPE"
+        },
+        {
+          "asset": "LFGCHEKPOINT",
+          "cardName": "LFGCHEKPOINT",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/xVcvSQ91Ds9XKxF2mPobqzMCU8YJJCGkom7qEhP1xRQ/lfgchekpoint.jpg",
+          "minted": 77,
+          "link": "https://www.xcp.io/asset/LFGCHEKPOINT"
+        },
+        {
+          "asset": "LFGPEPE",
+          "cardName": "LFGPEPE",
+          "creatorName": "TIZAR BERANDALAN",
+          "creatorSocial": "https://x.com/Tizarrr",
+          "image": "https://arweave.net/uzU6pmOvz1trjdn7qVlDM261sCPwnt3MFpNCzgV96AU/lfgpepe.jpg",
+          "minted": 69,
+          "link": "https://www.xcp.io/asset/LFGPEPE"
+        },
+        {
+          "asset": "PEPEPRESS",
+          "cardName": "PEPEPRESS",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/1RcuNoT1SKDDA9SoSUbUVgTw3thJInsESDH_MN5dlek/pepepress.jpg",
+          "minted": 54,
+          "link": "https://www.xcp.io/asset/PEPEPRESS"
+        },
+        {
+          "asset": "SURFPEPE",
+          "cardName": "SURFPEPE",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/fZDr5tBU44lzmOBUeo8vjvKHuIfUrhOB2DGJ6Kdyct8/surfpepe.jpg",
+          "minted": 1000,
+          "link": "https://www.xcp.io/asset/SURFPEPE"
+        },
+        {
+          "asset": "WAILINGWOJAK",
+          "cardName": "WAILINGWOJAK",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/rEW628zhmKpCIqKXiLITaE3SoY3xn0pjpU89GsylP0M/wailingwojak.png",
+          "minted": 75,
+          "link": "https://www.xcp.io/asset/WAILINGWOJAK"
+        },
+        {
+          "asset": "KEKBTCPHLUG",
+          "cardName": "KEKBTCPHLUG",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/3rrk5djjtKjLD1UpQjxme8K_eI6fSxLnc-gNzWVRHGA/kekbtcphlug.png",
+          "minted": 50,
+          "link": "https://www.xcp.io/asset/KEKBTCPHLUG"
+        },
+        {
+          "asset": "LFGKEK",
+          "cardName": "LFGKEK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/btX1Fpw1peuKoWUy3b732WeaAxCyihrxX0Kudx9GAhM/lfgkek.jpg",
+          "minted": 28,
+          "link": "https://www.xcp.io/asset/LFGKEK"
+        },
+        {
+          "asset": "NATUREBOY",
+          "cardName": "NATUREBOY",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/GPEl5DP5D18GK0i6AHQA595Rqi6-r1uY_3Q6v5E_k6s/natureboy.jpg",
+          "minted": 88,
+          "link": "https://www.xcp.io/asset/NATUREBOY"
+        },
+        {
+          "asset": "PEPENDOGE",
+          "cardName": "PEPENDOGE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/lcMBMzm-xTSdfHirzopRoWTMjkvtzIiMryNnDOiAn_U/pependoge.jpg",
+          "minted": 100,
+          "link": "https://www.xcp.io/asset/PEPENDOGE"
+        },
+        {
+          "asset": "PEPESURE",
+          "cardName": "PEPESURE",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/nCtyRcJk_JBjXh1mv3T4UyAZr8V8IE8kSVzAqblSM_A/pepesure.jpg",
+          "minted": 31,
+          "link": "https://www.xcp.io/asset/PEPESURE"
+        },
+        {
+          "asset": "COPYPASTGOLD",
+          "cardName": "COPYPASTGOLD",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/U5ggzHRlrRy-1ixCsE3XNfWzpHPs129quRUbW1AcWSo/copypastgold.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/COPYPASTGOLD"
+        },
+        {
+          "asset": "PEPELIKES",
+          "cardName": "PEPELIKES",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/WRJKuIrogLjGIETWSTwSWJ5OXEG_5xNixhVTIGD9j9o/pepelikes.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/PEPELIKES"
+        },
+        {
+          "asset": "DOHPEPE",
+          "cardName": "DOHPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/tPZ_GQ1Zw-rAvkDeVKuKittSBAMEx_8HkY50MnVg3GU/dohpepe.jpg",
+          "minted": 18,
+          "link": "https://www.xcp.io/asset/DOHPEPE"
+        },
+        {
+          "asset": "DUHPEPE",
+          "cardName": "DUHPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/KYezj627d423w-XCxhD0lEVVR6yduxK0ORcQGS8h2_I/duhpepe.jpg",
+          "minted": 18,
+          "link": "https://www.xcp.io/asset/DUHPEPE"
+        },
+        {
+          "asset": "FULLFUGGEM",
+          "cardName": "FULLFUGGEM",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/tyLw12MdfOzBrCPKtkxqTsE1dwo4gImTl8wzHR05qBQ/fullfuggem.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/FULLFUGGEM"
+        },
+        {
+          "asset": "GASPPEPE",
+          "cardName": "GASPPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/GFHDwEaYKVZhHc7vVVzm8lAl-z21mqKPi12aEpUqyrc/gasppepe.jpg",
+          "minted": 18,
+          "link": "https://www.xcp.io/asset/GASPPEPE"
+        },
+        {
+          "asset": "INCOGNTOPEPE",
+          "cardName": "INCOGNTOPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/4QncBdST-JFvfsxtLC9640yKcEgAW59U1KU7Uojdh7Q/incogntopepe.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/INCOGNTOPEPE"
+        },
+        {
+          "asset": "LFGXCHAIN",
+          "cardName": "LFGXCHAIN",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/K1vVTwOcqDFGWM03VaIXMrSr9yHXEaSwgSrNAEnyJ7I/lfgxchain.jpg",
+          "minted": 5,
+          "link": "https://www.xcp.io/asset/LFGXCHAIN"
+        },
+        {
+          "asset": "MELTFACES",
+          "cardName": "MELTFACES",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Gn17wYjenUBAbm--LfXLelsigycP1nqwsQfvmARwIXs/meltfaces.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/MELTFACES"
+        },
+        {
+          "asset": "MYSOUP",
+          "cardName": "MYSOUP",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/3kdc9_6dJ-CfcwuWoouq06wF9T4odejUzubVA70VfRU/mysoup.jpg",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/MYSOUP"
+        },
+        {
+          "asset": "PEPELIKALOT",
+          "cardName": "PEPELIKALOT",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/2wccXZtGmFdMFfkqQZ_PfYmQdNhFLzs-Kcw2srh7QEU/pepelikalot.jpg",
+          "minted": 15,
+          "link": "https://www.xcp.io/asset/PEPELIKALOT"
+        },
+        {
+          "asset": "PEPEMEH",
+          "cardName": "PEPEMEH",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/NeqPLnJP1l3fMqYxl0AJcRPayPfNC-bzDFYU_X0H3-I/pepemeh.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/PEPEMEH"
+        },
+        {
+          "asset": "PEPENOLIKE",
+          "cardName": "PEPENOLIKE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/9LWoLUlKM98VFtA2x-eq2k8poNGoFC0Btw5w5YtmKL8/pepenolike.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/PEPENOLIKE"
+        },
+        {
+          "asset": "PEPESMIRK",
+          "cardName": "PEPESMIRK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/60WwmD9e8zAuz0IdW5WzOn5H0q-aADvh6cpsDRGENSM/pepesmirk.jpg",
+          "minted": 33,
+          "link": "https://www.xcp.io/asset/PEPESMIRK"
+        },
+        {
+          "asset": "TOOFUNNYPEPE",
+          "cardName": "TOOFUNNYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/plZztxHQ9rnQ8NYxb5cSILXoJgLfsfaH7YkwZDMcy1g/toofunnypepe.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/TOOFUNNYPEPE"
+        },
+        {
+          "asset": "EGOROYALE",
+          "cardName": "EGOROYALE",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/-mBODcESIE3YmGVaVAcGRXwYq7rAGhebHrHwwqwI71U/egoroyale.jpg",
+          "minted": 69,
+          "link": "https://www.xcp.io/asset/EGOROYALE"
+        },
+        {
+          "asset": "COATOFARMS",
+          "cardName": "COATOFARMS",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/LLcr7H6uuiRvuzu4HAf5azJwhTy8aoSXAHlr5YZWmBg/coatofarms.jpg",
+          "minted": 10000,
+          "link": "https://www.xcp.io/asset/COATOFARMS"
+        },
+        {
+          "asset": "PEPECOCK",
+          "cardName": "PEPECOCK",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/Budx69Lm2TsYjfig82j035jhD6POtIvqz3JYHG6QPbA/pepecock.jpg",
+          "minted": 10000,
+          "link": "https://www.xcp.io/asset/PEPECOCK"
+        },
+        {
+          "asset": "MARKYMARK",
+          "cardName": "MARKYMARK",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/PlXpUm6gZyP2niuAUWXCkN6JHTA7ITVrj1arBqb_68E/markymark.jpg",
+          "minted": 10000,
+          "link": "https://www.xcp.io/asset/MARKYMARK"
+        },
+        {
+          "asset": "JECKALISLAND",
+          "cardName": "JECKALISLAND",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/GKhKxDQqVanss-8hBZ0-ef9cC2luAzQ5I_UmHEufsyc/jeckalisland.png",
+          "minted": 31,
+          "link": "https://www.xcp.io/asset/JECKALISLAND"
+        },
+        {
+          "asset": "SIDEPEPE",
+          "cardName": "SIDEPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Ku11E3J-UvidIhnqUTv-6-Vz_Py3f46BA-RHAzZ8jRM/sidepepe.jpg",
+          "minted": 5,
+          "link": "https://www.xcp.io/asset/SIDEPEPE"
+        },
+        {
+          "asset": "LFGQUEEN",
+          "cardName": "LFGQUEEN",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/qCIslbOxHcdfe3XggUkH4srCwbOz31mz-iqovtatwq4/lfgqueen.png",
+          "minted": 200,
+          "link": "https://www.xcp.io/asset/LFGQUEEN"
+        },
+        {
+          "asset": "NAKAAFRICA",
+          "cardName": "NAKAAFRICA",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/WmUVUONZc1qEw8RFp7yuDIWH0Abk-x5Q4hETbX9tc1c/nakaafrica.png",
+          "minted": 250,
+          "link": "https://www.xcp.io/asset/NAKAAFRICA"
+        },
+        {
+          "asset": "WINNERPEPE",
+          "cardName": "WINNERPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/QQNjkU_O_MoXs2ZKYXbpIW29rJASGDOO32GLo-ocbXM/winnerpepe.jpg",
+          "minted": 100,
+          "link": "https://www.xcp.io/asset/WINNERPEPE"
+        },
+        {
+          "asset": "PEPEHOLDINGS",
+          "cardName": "PEPEHOLDINGS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/sJ8-olxriXeKUzDyhMbDQ4p3JvrfJvdytzweOu4r3wQ/pepeholdings.jpg",
+          "minted": 150,
+          "link": "https://www.xcp.io/asset/PEPEHOLDINGS"
+        },
+        {
+          "asset": "A9735376114921552403",
+          "cardName": "A9735376114921552403",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/1KRn_6aCS8qy4Mw3XLIQZYGQKFnBSeHW9qNeHFaUJg0/A9735376114921552403.png",
+          "minted": 42,
+          "link": "https://www.xcp.io/asset/A9735376114921552403"
+        }
+      ]
+    },
+    {
+      "seriesName": "LFG3",
+      "seriesNumber": 3,
+      "cards": [
+        {
+          "asset": "PROOFOFMIND",
+          "cardName": "PROOFOFMIND",
+          "creatorName": "Robenira",
+          "creatorSocial": "https://x.com/Robenirart",
+          "image": "https://arweave.net/parq6Ob2IVhUMkezXfkYeUIhX1jIx8CVB39TFPQxcww/proofofmind.jpg",
+          "minted": 100,
+          "link": "https://www.xcp.io/asset/PROOFOFMIND"
+        },
+        {
+          "asset": "DOITPEPE",
+          "cardName": "DOITPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/JBQZSL5oHitHnTAqBG5mJ5Q8SSDTuGDjZNnN8oOpHDo/doitpepe.jpg",
+          "minted": 40,
+          "link": "https://www.xcp.io/asset/DOITPEPE"
+        },
+        {
+          "asset": "LOWFEEKING",
+          "cardName": "LOWFEEKING",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/aqF65aAsZCg-bATfeT2ZwbYDNQVG6l6CLgQhP5jCcIQ/lowfeeking.gif",
+          "minted": 50,
+          "link": "https://www.xcp.io/asset/LOWFEEKING"
+        },
+        {
+          "asset": "PEPEPINUP",
+          "cardName": "PEPEPINUP",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/ktMccTvWJn_TS4XejpGE9L_qkKy0wlisuH6bdaoJ3MM/pepepinup.jpg",
+          "minted": 27,
+          "link": "https://www.xcp.io/asset/PEPEPINUP"
+        },
+        {
+          "asset": "PEPEAWAY",
+          "cardName": "PEPEAWAY",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/4SvmfO3Ane5Rrh2Y3T194Pb9Q0ebsmhKTjpcBzgAGkg/pepeaway.jpg",
+          "minted": 150,
+          "link": "https://www.xcp.io/asset/PEPEAWAY"
+        },
+        {
+          "asset": "MOVINGPEPE",
+          "cardName": "MOVINGPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/bvzNWm7seazYCrcCOxtUVQfcGxSaUSOo__Nu42j5FeI/movingpepe.jpg",
+          "minted": 150,
+          "link": "https://www.xcp.io/asset/MOVINGPEPE"
+        },
+        {
+          "asset": "JUNETHIRD",
+          "cardName": "JUNETHIRD",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/YtiLcaVHV5-allZaiOhM5YPdeRuKUOPKN-fINOjkA1w/junethird.png",
+          "minted": 13,
+          "link": "https://www.xcp.io/asset/JUNETHIRD"
+        },
+        {
+          "asset": "ONETWENTYK",
+          "cardName": "ONETWENTYK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/sYlPSXe-RLOBMkHUqtyWcQR5pKFYGi8My8x5nciOTX0/onetwentyk.jpg",
+          "minted": 120,
+          "link": "https://www.xcp.io/asset/ONETWENTYK"
+        },
+        {
+          "asset": "ITSCOMMING",
+          "cardName": "ITSCOMMING",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/kQD7KNXiK1ioN8DrVvTwl_aIyRoZdbnjrGF5VxyOCv0/itscomming.png",
+          "minted": 135,
+          "link": "https://www.xcp.io/asset/ITSCOMMING"
+        },
+        {
+          "asset": "PEPEBUNDANCE",
+          "cardName": "PEPEBUNDANCE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/NovKz__q7wJydw7yjvkjUlW12ThIT1Xo5KJNpQvR_vU/pepebundance.jpg",
+          "minted": 200,
+          "link": "https://www.xcp.io/asset/PEPEBUNDANCE"
+        },
+        {
+          "asset": "WEALTHYPEPE",
+          "cardName": "WEALTHYPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/huWwdSiYAzZdpJRLIXeRxi9bia-LX90vyZVRkST0apg/wealthypepe.jpg",
+          "minted": 150,
+          "link": "https://www.xcp.io/asset/WEALTHYPEPE"
+        },
+        {
+          "asset": "KONTORONBTC",
+          "cardName": "KONTORONBTC",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/xF0lPqVHPLaNG3q7PalHRw3g0ZwX6lgLJ3itgacOktM/kontoronbtc.png",
+          "minted": 18,
+          "link": "https://www.xcp.io/asset/KONTORONBTC"
+        },
+        {
+          "asset": "BEDAYPEPE",
+          "cardName": "BEDAYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/ZHtxsy9JckLI1ysmPeblcXMxxXZazVZk-i0dLaknO1Y/bedaypepe.png",
+          "minted": 2100,
+          "link": "https://www.xcp.io/asset/BEDAYPEPE"
+        },
+        {
+          "asset": "CHIAROSCURO",
+          "cardName": "CHIAROSCURO",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/QhvB1YwQ8JLJa7posYp9ZmiRmQN9qFHzVRx412I5BCY/chiaroscuro.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/CHIAROSCURO"
+        },
+        {
+          "asset": "HOPEINPEPE",
+          "cardName": "HOPEINPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/_f3575NiViOG72-Z1g7CE6pXTs8R6kB-rIBAs9vtmDQ/hopeinpepe.jpg",
+          "minted": 21,
+          "link": "https://www.xcp.io/asset/HOPEINPEPE"
+        },
+        {
+          "asset": "FAKEOLDFROG",
+          "cardName": "FAKEOLDFROG",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/VgZ9PEGrZQjedpW4MUDyW61td2fKiafrmSKlZzP5U0A/fakeoldfrog.png",
+          "minted": 350,
+          "link": "https://www.xcp.io/asset/FAKEOLDFROG"
+        }
+      ]
+    }
+  ]
+}
