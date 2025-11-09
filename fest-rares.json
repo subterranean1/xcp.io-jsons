@@ -1,0 +1,1399 @@
+{
+  "collectionName": "Fest Rares",
+  "collectionSlug": "fest-rares",
+  "collectionLink": "https://www.xcp.io/collect/fest-rares",
+  "series": [
+    {
+      "seriesName": "Series 1 (Paris 2023)",
+      "seriesNumber": 1,
+      "cards": [
+        {
+          "asset": "MINTPASSTEST",
+          "cardName": "MINTPASSTEST",
+          "creatorName": "Joe Looney",
+          "creatorSocial": "https://twitter.com/wasthatawolf",
+          "image": "https://qhaspvgnbzk7r6xhaqmw4ujqz2o3luufkvrln4kzeh5be72avoeq.arweave.net/gcEn1M0OVfj65wQZblEwzp210oVVYrbxWSH6En9Aq4k/MINTPASSTEST.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MINTPASSTEST"
+        },
+        {
+          "asset": "MINTPEPEPASS",
+          "cardName": "MINTPEPEPASS",
+          "creatorName": "Joe Looney",
+          "creatorSocial": "https://twitter.com/wasthatawolf",
+          "image": "https://u7iw3stvjl24cdfwslew26upn7cf2ykp2zbwndrxy7i4dz5mujiq.arweave.net/p9FtynVK9cEMtpLJbXqPb8RdYU_WQ2aON8fRweesolE/MINTPEPEPASS.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MINTPEPEPASS"
+        },
+        {
+          "asset": "PEACENIKPEPE",
+          "cardName": "PEACENIKPEPE",
+          "creatorName": "Mamo Looney",
+          "creatorSocial": "",
+          "image": "https://n3eqanr6kdzkmktldp5rwsqb5vi5dwdw6blrcggym43zo7jpfc3a.arweave.net/bskANj5Q8qYqaxv7G0oB7VHR2HbwVxEY2Gc3l30vKLY/PEACENIKPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEACENIKPEPE"
+        },
+        {
+          "asset": "SHROOMTOSHI",
+          "cardName": "SHROOMTOSHI",
+          "creatorName": "Shroomtoshi",
+          "creatorSocial": "",
+          "image": "https://q2woi4ipasz2hbr5wlyqmyxg6mz5y4tptppsgdzh4ew4rx3ig5bq.arweave.net/hqzkcQ8Es6OGPbLxBmLm8zPccm-b3yMPJ-EtyN9oN0M/SHROOMTOSHI.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/SHROOMTOSHI"
+        },
+        {
+          "asset": "NOPEPENO",
+          "cardName": "NOPEPENO",
+          "creatorName": "Theo goodman",
+          "creatorSocial": "https://twitter.com/theog__",
+          "image": "https://pvt4wjr4x5abuw4bwr35nsdr35e3dkgbukoabuym6baffg6yooda.arweave.net/fWfLJjy_QBpbgbR31shx30mxqMGinADTDPBAUpvYc4Y/NOPEPENO.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/NOPEPENO"
+        },
+        {
+          "asset": "MARGEMEME",
+          "cardName": "MARGEMEME",
+          "creatorName": "Albertine",
+          "creatorSocial": "",
+          "image": "https://2vdiybk2lllrnb47dxgrrzytpr465hyrsv64mvsqqgjqw3yygddq.arweave.net/1UaMBVpa1xaHnx3NGOcTfHnunxGVfcZWUIGTC28YMMc/MARGEMEME.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MARGEMEME"
+        },
+        {
+          "asset": "PEPYEAH",
+          "cardName": "PEPYEAH",
+          "creatorName": "Pinatubo",
+          "creatorSocial": "",
+          "image": "https://2eohyayisbdr6rkuifgbdpfxbldikigsrel5owt2jz6m6sxmzuwa.arweave.net/0Rx8AwiQRx9FVEFMEby3CsaFINKJF9daek58z0rszSw/PEPYEAH.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPYEAH"
+        },
+        {
+          "asset": "A1448255510946016597",
+          "cardName": "A1448255510946016597",
+          "creatorName": "Gus Grillasca",
+          "creatorSocial": "https://twitter.com/GusGrillasca",
+          "image": "https://27rmofzyuqc7t4d5capjkpwyhzdnfckarpi5vlwde6ch2sh4nw4a.arweave.net/1-LHFzikBfnwfRAelT7YPkbSiUCL0dquwyeEfUj8bbg/A1448255510946016597.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/A1448255510946016597"
+        },
+        {
+          "asset": "CHEFPEPELEGS",
+          "cardName": "CHEFPEPELEGS",
+          "creatorName": "Nicolas Sierro",
+          "creatorSocial": "https://twitter.com/NicolasSierro",
+          "image": "https://redu2zidgx2he425wuqzyaocjewc7k7dwbygkgzfuwrsvgknpcea.arweave.net/iQdNZQM19HJzXbUhnAHCSSwvq-OwcGUbJaWjKplNeIg/CHEFPEPELEGS.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CHEFPEPELEGS"
+        },
+        {
+          "asset": "PEPESOF",
+          "cardName": "PEPESOF",
+          "creatorName": "",
+          "creatorSocial": "",
+          "image": "https://pro7ai2tb34fbbwi422g4symq6jklbplkyfxyva7ayidlirjrcda.arweave.net/fF3wI1MO-FCGyOa0bksMh5KlhetWC3xUHwYQNaIpiIY/PEPESOF.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPESOF"
+        },
+        {
+          "asset": "PEPECRICKET",
+          "cardName": "PEPECRICKET",
+          "creatorName": "HS",
+          "creatorSocial": "",
+          "image": "https://n3uu4a4rhgb7bys7lkddtwlq7d66szmmwy4fawxl3cjpyjuoggnq.arweave.net/bulOA5E5g_DiX1qGOdlw-P3pZYy2OFBa69iS_CaOMZs/PEPECRICKET.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPECRICKET"
+        },
+        {
+          "asset": "HIPEPE",
+          "cardName": "HIPEPE",
+          "creatorName": "Joe Atang",
+          "creatorSocial": "https://twitter.com/JOEATANG",
+          "image": "https://kbvj2biq5g6q7wijetppbulqletg3usr4llqomaqx4yy6rr6djzq.arweave.net/UGqdBRDpvQ_ZCSTe8NFwWSZt0lHi1wcwEL8xj0Y-GnM/HIPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/HIPEPE"
+        },
+        {
+          "asset": "RAREWORKSHOP",
+          "cardName": "RAREWORKSHOP",
+          "creatorName": "Le Hues",
+          "creatorSocial": "https://twitter.com/PepeLeHues",
+          "image": "https://sxa3vtq5vnodwnbua47x6jrit7qlbgy4v6cmvj62zbxtxybc72xq.arweave.net/lcG6zh2rXDs0NAc_fyYon-CwmxyvhMqn2shvO-Ai_q8/RAREWORKSHOP.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/RAREWORKSHOP"
+        },
+        {
+          "asset": "KRAKENPEPE",
+          "cardName": "KRAKENPEPE",
+          "creatorName": "volt46",
+          "creatorSocial": "",
+          "image": "https://ixl7fmox2higtsiep46e3qzpvnxs4o5rhjamvw454stwjdm6hx7a.arweave.net/RdfysdfR0GnJBH88TcMvq28uO7E6QMrbneSnZI2ePf4/KRAKENPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/KRAKENPEPE"
+        },
+        {
+          "asset": "PEPEBUSINESS",
+          "cardName": "PEPEBUSINESS",
+          "creatorName": "Filthy Trikks",
+          "creatorSocial": "https://twitter.com/FilthyTrikksEth",
+          "image": "https://nezajhrgepqad2qszunsriam6kusd6xab5qv27dmbifyq34sns2q.arweave.net/aTIEniYj4AHqEs0bKKAM8qkh-uAPYV18bAoLiG-SbLU/PEPEBUSINESS.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEBUSINESS"
+        },
+        {
+          "asset": "MADEINPARIS",
+          "cardName": "MADEINPARIS",
+          "creatorName": "Davesta",
+          "creatorSocial": "",
+          "image": "https://mplzpiqtmdgfsat35fukz72f4yevypz5jigopw653kv3gbt7o3ca.arweave.net/Y9eXohNgzFkCe-lorP9F5glcPz1KDOfb3dqrswZ_dsQ/MADEINPARIS.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MADEINPARIS"
+        },
+        {
+          "asset": "MINIMALPEPE",
+          "cardName": "MINIMALPEPE",
+          "creatorName": "Ditacrypto",
+          "creatorSocial": "",
+          "image": "https://aas66mxwpfx7sqfr5pnq6cvq4u6kdtrsd4lcdodsdrbxh6j5kv2q.arweave.net/ACXvMvZ5b_lAsevbDwqw5TyhzjIfFiG4chxDc_k9VXU/minimalpepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MINIMALPEPE"
+        },
+        {
+          "asset": "PEPEDEVINCI",
+          "cardName": "PEPEDEVINCI",
+          "creatorName": "Arthur",
+          "creatorSocial": "",
+          "image": "https://wxxnbtcokzj3zt5or2sev7vpqxkqdwedddyq7fm5akej2bt7tyfa.arweave.net/te7QzE5WU7zPro6kSv6vhdUB2IMY8Q-VnQKInQZ_ngo/PEPEDEVINCI.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEDEVINCI"
+        },
+        {
+          "asset": "FROSRETROUVL",
+          "cardName": "FROSRETROUVL",
+          "creatorName": "Elma x Raresaestheth",
+          "creatorSocial": "",
+          "image": "https://ah4jlbkiavkqzpe45ksz3unpbwsdkdqwnje6z22d2hjdbed66d2a.arweave.net/AfiVhUgFVQy8nOqlndGvDaQ1DhZqSezrQ9HSMJB-8PQ/FROSRETROUVL.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/FROSRETROUVL"
+        },
+        {
+          "asset": "RCSAPARIS",
+          "cardName": "RCSAPARIS",
+          "creatorName": "Netidx",
+          "creatorSocial": "https://twitter.com/netindexed",
+          "image": "https://eeuzovmap64kzyd6s3skbndbpey7ksbyvkpewlga5mx32aeqd77q.arweave.net/ISmXVYB_uKzgfpbkoLRheTH1SDiqnksswOsvvQCQH_8/RCSAPARIS.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/RCSAPARIS"
+        },
+        {
+          "asset": "YUPEPE",
+          "cardName": "YUPEPE",
+          "creatorName": "Darky",
+          "creatorSocial": "https://twitter.com/Dark_inc_Studio",
+          "image": "https://jrtyidikbrdfnwbiozwutmifxw3luis56d7hmnbea5nguvmx2uca.arweave.net/TGeEDQoMRlbYKHZtSbEFvba6Il3w_nY0JAdaalWX1QQ/YUPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/YUPEPE"
+        },
+        {
+          "asset": "PEPEHA",
+          "cardName": "PEPEHA",
+          "creatorName": "TokerVillage",
+          "creatorSocial": "",
+          "image": "https://pie2kea2cqd6jiuunugtwav64ut6r6m65ay4gjb64hzhocjhhfba.arweave.net/egmlEBoUB-SilG0NOwK-5Sfo-Z7oMcMkPuHydwknOUI/PEPEHA.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEHA"
+        },
+        {
+          "asset": "PEPEPLEXI",
+          "cardName": "PEPEPLEXI",
+          "creatorName": "Plexiplay",
+          "creatorSocial": "",
+          "image": "https://j4qbktiskwcwbt6iu52beyvwktbezafy5u2ydxxrx6lxoeqopqbq.arweave.net/TyAVTRJVhWDPyKd0EmK2VMJMgLjtNYHe8b-XdxIOfAM/PEPEPLEXI.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEPLEXI"
+        },
+        {
+          "asset": "PEPECOLM",
+          "cardName": "PEPECOLM",
+          "creatorName": "Cora",
+          "creatorSocial": "",
+          "image": "https://atb3hay4ec36be55pdn56qsdafdkyodxenc4piygt5p5oek5wo7a.arweave.net/BMOzgxwgt-CTvXjb30JDAUasOHcjRcejBp9f1xFds74/PEPECOLM.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPECOLM"
+        },
+        {
+          "asset": "PEPEVRYWHERE",
+          "cardName": "PEPEVRYWHERE",
+          "creatorName": "Easy B",
+          "creatorSocial": "https://twitter.com/Easy_to_the_b",
+          "image": "https://qlthwwwppxm7oq2ulk33lpug2h37nyirftzuukyljpsdg4443kia.arweave.net/guZ7Ws992fdDVFq3tb6G0ff24REs80orC0vkM3Oc2pA/PEPEVRYWHERE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEVRYWHERE"
+        },
+        {
+          "asset": "MEMEALPHA",
+          "cardName": "MEMEALPHA",
+          "creatorName": "Bnoiitc",
+          "creatorSocial": "",
+          "image": "https://qdeql6sud4ytvw7t6jx4nxgpbn4ge5fgwxs4ltme66rj3mevzesq.arweave.net/gMkF-lQfMTrb8_JvxtzPC3hidKa15cXNhPeinbCVySU/MEMEALPHA.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MEMEALPHA"
+        },
+        {
+          "asset": "NOSKILLPEPE",
+          "cardName": "NOSKILLPEPE",
+          "creatorName": "Frogardo",
+          "creatorSocial": "",
+          "image": "https://ew6u72dwahl2mritnxfmcet6rnqrthhezaqacfhxd3qi6ddahzqa.arweave.net/Jb1P6HYB16ZFE23KwRJ-i2EZnOTIIAEU9x7gjwxgPmA/NOSKILLPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/NOSKILLPEPE"
+        },
+        {
+          "asset": "PROJECTPEPE",
+          "cardName": "PROJECTPEPE",
+          "creatorName": "FWD",
+          "creatorSocial": "https://twitter.com/fabooowy",
+          "image": "https://ryhlrkgr4au4exzjorxjtckxfkgzuzfhp2ncevj6vwj75bnjp25q.arweave.net/jg64qNHgKcJfKXRumYlXKo2aZKd-miJVPq2T_oWpfrs/PROJECTEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PROJECTPEPE"
+        },
+        {
+          "asset": "FOCUSPEPE",
+          "cardName": "FOCUSPEPE",
+          "creatorName": "nathonsonic",
+          "creatorSocial": "https://twitter.com/nathansonic",
+          "image": "https://3cskbmlwvui6jtxqe3lvekstqwntzzyolqb6oiqhpmxc3cfljjvq.arweave.net/2KSgsXatEeTO8CbXUipThZs85w5cA-ciB3suLYirSms/FOCUSPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/FOCUSPEPE"
+        },
+        {
+          "asset": "LIFTEDPEPE",
+          "cardName": "LIFTEDPEPE",
+          "creatorName": "Viva La Vandal",
+          "creatorSocial": "https://twitter.com/viva_la_vandal",
+          "image": "https://pdkebhnowbbyhqblqtw2vrnac5uudplqv4khauifecjemiozyyba.arweave.net/eNRAna6wQ4PAK4TtqsWgF2lBvXCvFHBRBSCSRiHZxgI/LIFTEDPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/LIFTEDPEPE"
+        },
+        {
+          "asset": "PINKPEPEROSE",
+          "cardName": "PINKPEPEROSE",
+          "creatorName": "Shawn Leary",
+          "creatorSocial": "https://twitter.com/shawnleary",
+          "image": "https://ck5vw4yqefqiquiouoz7q7rzhqwra4qxgfthu2ebbdim3c7j4wea.arweave.net/ErtbcxAhYIhRDqOz-H45PC0QchcxZnpogQjQzYvp5Yg/PINKPEPEROSE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PINKPEPEROSE"
+        },
+        {
+          "asset": "THEOBEERPEPE",
+          "cardName": "THEOBEERPEPE",
+          "creatorName": "Nicolas Sierro",
+          "creatorSocial": "https://twitter.com/NicolasSierro",
+          "image": "https://hyjoffx6f6s4syva4lcdqojdjkxudwbzq7ugt5urqumllplj3oqq.arweave.net/PhLilv4vpclioOLEODkjSq9B2DmH6Gn2kYUYtb1p26E/THEOBEERPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/THEOBEERPEPE"
+        },
+        {
+          "asset": "PEPEYELLOW",
+          "cardName": "PEPEYELLOW",
+          "creatorName": "Cornholio the Great",
+          "creatorSocial": "https://twitter.com/C0rnh0li0",
+          "image": "https://emweceoagsjqokwea2ucjt6ymqxbmru2htpm2ipjyeq54lzqkqcq.arweave.net/IyxBEcA0kwcqxAaoJM_YZC4WRpo83s0h6cEh3i8wVAU/PEPEYELLOW.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEYELLOW"
+        },
+        {
+          "asset": "SENDUTAJESUS",
+          "cardName": "SENDUTAJESUS",
+          "creatorName": "Lil' Vandal",
+          "creatorSocial": "",
+          "image": "https://ttif6vw6fkz54z2bv3fqrecra4mlygau6hmbdmorkseyokxnkqra.arweave.net/nNBfVt4qs95nQa7LCJBRBxi8GBTx2BGx0VSJhyrtVCI/SENDUTAJESUS.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/SENDUTAJESUS"
+        },
+        {
+          "asset": "ORDERAPEPE",
+          "cardName": "ORDERAPEPE",
+          "creatorName": "Netidx",
+          "creatorSocial": "https://twitter.com/netindexed",
+          "image": "https://6z3uamo3navpqx2qjk546hgif45qsk4q3my3cl2mgcapixas42wa.arweave.net/9ndAMdtoKvhfUEq7zxzILzsJK5DbMbEvTDCA9FwS5qw/ORDERAPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/ORDERAPEPE"
+        },
+        {
+          "asset": "PEPELAMP",
+          "cardName": "PEPELAMP",
+          "creatorName": "o hu hion je",
+          "creatorSocial": "",
+          "image": "https://crriackdcfi2cihp42qdd6fjq7rblxiyyjuicf4sl7dxg7sgyp7q.arweave.net/FGKACUMRUaEg7-agMfiph-IV3RjCaIEXkl_Hc35Gw_8/PEPELAMP.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPELAMP"
+        },
+        {
+          "asset": "BONJOURYALL",
+          "cardName": "BONJOURYALL",
+          "creatorName": "whitbit",
+          "creatorSocial": "",
+          "image": "https://2mnv3xsgqei3frku67gbhap75fldroptv3mbla6da6e7xdvwqz2q.arweave.net/0xtd3kaBEbLFVPfME4H_6VY4ufOu2BWDwweJ-462hnU/BONJOURYALL.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BONJOURYALL"
+        },
+        {
+          "asset": "MAGNIFIQUE",
+          "cardName": "MAGNIFIQUE",
+          "creatorName": "Gus Grillasca",
+          "creatorSocial": "https://twitter.com/GusGrillasca",
+          "image": "https://cur2t243dc5l6jnxhsxierg66wcxvpr3pnk7ymjgls76ascgi74q.arweave.net/FSOp65sYur8ltzyugkTe9YV6vjt7VfwxJly_4EhGR_k/MAGNIFIQUE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MAGNIFIQUE"
+        },
+        {
+          "asset": "NOTANARTIST",
+          "cardName": "NOTANARTIST",
+          "creatorName": "PEPEBOOK",
+          "creatorSocial": "",
+          "image": "https://5wjtj7or6j7yr3yzcrwf7gk52l4oh6naompeop2r3f6wkokddbaa.arweave.net/7ZM0_dHyf4jvGRRsX5ld0vjj-aBzHkc_Udl9ZTlDGEA/NOTANARTIST.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/NOTANARTIST"
+        },
+        {
+          "asset": "FAKEPEPEISH",
+          "cardName": "FAKEPEPEISH",
+          "creatorName": "Arwyn",
+          "creatorSocial": "https://twitter.com/mrarwyn",
+          "image": "https://73zixjh2dq73zd55jg3n5r2rgf4du5p3ycclrpoxpqaos4k3wo4a.arweave.net/_vKLpPocP7yPvUm23sdRMXg6dfvAhLi913wA6XFbs7g/FAKEPEPEISH.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/FAKEPEPEISH"
+        },
+        {
+          "asset": "PEPEPOSE",
+          "cardName": "PEPEPOSE",
+          "creatorName": "brocciu",
+          "creatorSocial": "https://twitter.com/Brocciuz",
+          "image": "https://6pxb7ccqsagwtp7kmrk73c2alc34j34nauy5m5mcgokelzcbnbuq.arweave.net/8-4fiFCQDWm_6mRV_YtAWLfE740FMdZ1gjOUReRBaGk/PEPEPOSE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEPOSE"
+        },
+        {
+          "asset": "PEPESTAMPED",
+          "cardName": "PEPESTAMPED",
+          "creatorName": "LHOOP X Mighty33",
+          "creatorSocial": "",
+          "image": "https://lg7nrjzrgwfa4kp5pzpthkpyqanddaoozuo4ljpygghgntee4lpa.arweave.net/Wb7YpzE1ig4p_X5fM6n4gBoxgc7NHcWl-DGOZsyE4t4/PEPESTAMPED.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPESTAMPED"
+        },
+        {
+          "asset": "SHITPEPECARD",
+          "cardName": "SHITPEPECARD",
+          "creatorName": "Rare Scrilla",
+          "creatorSocial": "https://twitter.com/ScrillaVentura",
+          "image": "https://2jlohmqn53blwugigo52vdflfxugh2jxhfdueqdye45wdblecxwq.arweave.net/0lbjsg3uwrtQyDO7qoyrLehj6Tc5R0JAeCc7YYVkFe0/SHITPEPECARD.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/SHITPEPECARD"
+        },
+        {
+          "asset": "PEPEWOJACQUE",
+          "cardName": "PEPEWOJACQUE",
+          "creatorName": "Pifu",
+          "creatorSocial": "https://twitter.com/PiFu7",
+          "image": "https://e3wyo2cl3722agb65uoog5gytoqivuwjrkxpt53ar5n5n7aq5naa.arweave.net/Ju2HaEvf9aAYPu0c43TYm6CK0smKrvn3YI9b1vwQ60A/PEPEWOJACQUE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEWOJACQUE"
+        },
+        {
+          "asset": "PARISAIRBNB",
+          "cardName": "PARISAIRBNB",
+          "creatorName": "Rare Scrilla",
+          "creatorSocial": "https://twitter.com/ScrillaVentura",
+          "image": "https://2jdq36tqarkga3hn764wykinwbtovg3zz6im4ys5fo5sl2hbx2ya.arweave.net/0kcN-nAEVGBs7f-5bCkNsGbqm3nPkM5iXSu7JejhvrA/PARISAIRBNB.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PARISAIRBNB"
+        },
+        {
+          "asset": "PEPESNAIL",
+          "cardName": "PEPESNAIL",
+          "creatorName": "LvsD",
+          "creatorSocial": "https://twitter.com/Zbyku",
+          "image": "https://4dyl4526w6apwxt6mq2esoncx46cxtyte7skhrzw3sp3sxnfilxa.arweave.net/4PC-d163gPtefmQ0STmivzwrzxMn5KPHNtyfuV2lQu4/PEPESNAIL.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPESNAIL"
+        },
+        {
+          "asset": "PEPEFROMAGE",
+          "cardName": "PEPEFROMAGE",
+          "creatorName": "Dre Boti",
+          "creatorSocial": "",
+          "image": "https://7ny5ordb2jionylzw5weoxqgv2rjl2r6546uy4pow6bt5bt75sna.arweave.net/-3HXRGHSUObhebdsR14GrqKV6j7vPUxx7reDPoZ_7Jo/PEPEFROMAGE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEFROMAGE"
+        },
+        {
+          "asset": "A12405764456997387506",
+          "cardName": "A12405764456997387506",
+          "creatorName": "Bbleiztz",
+          "creatorSocial": "https://twitter.com/bbleiztz",
+          "image": "https://53npctkftdeyrx4zpszzehd4p6tsfxpe5baj56nzg3yria2u4npq.arweave.net/7trxTUWYyYjfmXyzkhx8f6ci3eToQJ75uTbxFANU418/A12405764456997387506.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/A12405764456997387506"
+        },
+        {
+          "asset": "PPEE",
+          "cardName": "PPEE",
+          "creatorName": "Pierre Pauze",
+          "creatorSocial": "",
+          "image": "https://ilolvqk7kg2o2xenvfqdgp4foki4umulukgma3mj6nzulr6m7tea.arweave.net/Qty6wV9RtO1cjalgMz-FcpHKMouijMBtifNzRcfM_Mg/PPEE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PPEE"
+        },
+        {
+          "asset": "FIRSTBIDPEPE",
+          "cardName": "FIRSTBIDPEPE",
+          "creatorName": "Filthy Trikks",
+          "creatorSocial": "https://twitter.com/FilthyTrikksEth",
+          "image": "https://2in6ezrsdneo73sl2l4577n2g5ygnpwjlpf25pz7ifn365czq5ka.arweave.net/0hviZjIbSO_uS9L53_26N3Bmvslby66_P0Fbv3RZh1Q/FIRSTBIDPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/FIRSTBIDPEPE"
+        },
+        {
+          "asset": "PARISINPEPE",
+          "cardName": "PARISINPEPE",
+          "creatorName": "HS",
+          "creatorSocial": "",
+          "image": "https://oycxppmye7yz6pt2dabcbagok5vlrxqekb75dcs2ciuwmyzbz2za.arweave.net/dgV3vZgn8Z8-ehgCIIDOV2q43gRQf9GKWhIpZmMhzrI/PARISINPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PARISINPEPE"
+        },
+        {
+          "asset": "PEPENOPARIS",
+          "cardName": "PEPENOPARIS",
+          "creatorName": "DARK0",
+          "creatorSocial": "",
+          "image": "https://uved4oousfgqsc2jpwxpvdhbyhdkzs6kzj5n6zl7c5jgzyrdpr2a.arweave.net/pUg-OdSRTQkLSX2u-ozhwcasy8rKet9lfxdSbOIjfHQ/PEPENOPARIS.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPENOPARIS"
+        },
+        {
+          "asset": "FORALLDAPEPE",
+          "cardName": "FORALLDAPEPE",
+          "creatorName": "Joe Atang",
+          "creatorSocial": "https://twitter.com/JOEATANG",
+          "image": "https://2crdgo52czpgs3so4tmp6gbd4rfr7luqxhdmozmen6v447uzdnqq.arweave.net/0KIzO7oWXmluTuTY_xgj5EsfrpC5xsdlhG-rzn6ZG2E/FORALLDAPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/FORALLDAPEPE"
+        },
+        {
+          "asset": "WORKSHOPEPE",
+          "cardName": "WORKSHOPEPE",
+          "creatorName": "Arwyn",
+          "creatorSocial": "https://twitter.com/mrarwyn",
+          "image": "https://ctlkc22ed2jxrwb6o76grxpgkgbqx2ratflsbopdxw4bgplipigq.arweave.net/FNaha0Qek3jYPnf8aN3mUYML6iCZVyC54724Ez1oeg0/WORKSHOPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/WORKSHOPEPE"
+        },
+        {
+          "asset": "PEPEWORKSHOP",
+          "cardName": "PEPEWORKSHOP",
+          "creatorName": "Jose Burrito",
+          "creatorSocial": "https://twitter.com/Jose_Burrito_",
+          "image": "https://satme3y2u5yr2ovmgdkd3n5dtx3n4jpxb4gigdkiwzbtiki3kgqa.arweave.net/kCbCbxqncR06rDDUPbejnfbeJfcPDIMNSLZDNCkbUaA/PEPEWORKSHOP.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEWORKSHOP"
+        },
+        {
+          "asset": "DARKDANKPEPE",
+          "cardName": "DARKDANKPEPE",
+          "creatorName": "subterranean",
+          "creatorSocial": "https://twitter.com/subterranean_1",
+          "image": "https://icz5uscopd23v3dixjpjpets6qqcoluzem6v3yahvyvih6oqvv7a.arweave.net/QLPaSE549brsaLpel5Jy9CAnLpkjPV3gB64qg_nQrX4/DARKDANKPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DARKDANKPEPE"
+        },
+        {
+          "asset": "PEPETHEBLEU",
+          "cardName": "PEPETHEBLEU",
+          "creatorName": "Abstract Mirror",
+          "creatorSocial": "https://twitter.com/AbstractMirror",
+          "image": "https://jh32otj5wwkomryi7y3efenccee4jfu5mnx6zuj5ufrrgg7gx3cq.arweave.net/SfenTT21lOZHCP42QpGiEQnElp1jb-zRPaFjExvmvsU/PEPETHEBLEU.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPETHEBLEU"
+        },
+        {
+          "asset": "POSTMINTPEPE",
+          "cardName": "POSTMINTPEPE",
+          "creatorName": "Abstract Mirror",
+          "creatorSocial": "https://twitter.com/AbstractMirror",
+          "image": "https://djznn7cmpfwfenzgndjbrblcvuespgthi2bv3ebeu5iumrapmvdq.arweave.net/GnLW_Ex5bFI3JmjSGIVirQknmmdGg12QJKdRRkQPZUc/POSTMINTPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/POSTMINTPEPE"
+        },
+        {
+          "asset": "INFOCUSPEPE",
+          "cardName": "INFOCUSPEPE",
+          "creatorName": "nathonsonic",
+          "creatorSocial": "https://twitter.com/nathansonic",
+          "image": "https://363hubzuy67sndnqzfqkujj6cunwtuq6ak73miqiwr3w4wdax2tq.arweave.net/37Z6BzTHvyaNsMlgqiU-FRtp0h4Cv7YiCLR3blhgvqc/INFOCUSPEPE.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/INFOCUSPEPE"
+        },
+        {
+          "asset": "GIGAMULLET",
+          "cardName": "GIGAMULLET",
+          "creatorName": "BUNZY",
+          "creatorSocial": "https://twitter.com/0xBunzy",
+          "image": "https://rzj4mgzwquv5ifg76oypzlgtbuo64o22wximdsjhgbruh7h3qmma.arweave.net/jlPGGzaFK9QU3_Ow_KzTDR3uO1q10MHJJzBjQ_z7gxg/GIGAMULLET.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/GIGAMULLET"
+        }
+      ]
+    },
+    {
+      "seriesName": "Series 2 (New York 2024)",
+      "seriesNumber": 2,
+      "cards": [
+        {
+          "asset": "COLABCOUPLE",
+          "cardName": "COLABCOUPLE",
+          "creatorName": "DITACRYPTO",
+          "creatorSocial": "https://twitter.com/ditacrypto",
+          "image": "https://irbbuvv55rv7yyg2k7geofpxe3jpufpoflocwoabty7oqw4zpv2a.arweave.net/REIaVr3sa_xg2lfMRxX3JtL6Fe4q3Cs4AZ4-6FuZfXQ/colabcouple.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/COLABCOUPLE"
+        },
+        {
+          "asset": "PEEPINGPEPE",
+          "cardName": "PEEPINGPEPE",
+          "creatorName": "fresa",
+          "creatorSocial": "https://twitter.com/gardenfresa",
+          "image": "https://yohqxgszsh25duxgzlue2wyf4xeqmcfj7ffiiqxiwtdnmcdhjaia.arweave.net/w48LmlmR9dHS5sroTVsF5ckGCKn5SoRC6LTG1ghnSBA/peepingpepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEEPINGPEPE"
+        },
+        {
+          "asset": "FAKESMOWL",
+          "cardName": "FAKESMOWL",
+          "creatorName": "Auger",
+          "creatorSocial": "https://twitter.com/austingray",
+          "image": "https://h6ag7dwo64o4cjks4ybh5tdsm6rnqavqjlg65mheno5addxlslra.arweave.net/P4Bvjs73HcElUuYCfsxyZ6LYArBKze6w5Gu6AY7rkuI/fckyeapepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/FAKESMOWL"
+        },
+        {
+          "asset": "FCKYEAPEPE",
+          "cardName": "FCKYEAPEPE",
+          "creatorName": "Gabe",
+          "creatorSocial": "https://twitter.com/f_ckyea_",
+          "image": "https://4xeqhj4ertr3banigzshoqr2vpyqhsf63pjyt6hpzuyaiwkhkuyq.arweave.net/5ckDp4SM47CBqDZkd0I6q_EDyL7b04n4780wBFlHVTE/fckyeapepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/FCKYEAPEPE"
+        },
+        {
+          "asset": "DOUCIT",
+          "cardName": "DOUCIT",
+          "creatorName": "Barbie",
+          "creatorSocial": "",
+          "image": "https://bbwzgphm6rvhkiecinbimbxvxv4q5z2i3zzqu5vfbqmltd5uudqq.arweave.net/CG2TPOz0anUggkNChgb1vXkO50jecwp2pQwYuY-0oOE/doucit.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DOUCIT"
+        },
+        {
+          "asset": "WIFPEPE",
+          "cardName": "WIFPEPE",
+          "creatorName": "",
+          "creatorSocial": "",
+          "image": "https://a5xguuwmvqo6fckvw2bk2ndtmnt2siapnsvcwxg6zvfs7u6kcu3q.arweave.net/B25qUsysHeKJVbaCrTRzY2epIA9sqitc3s1LL9PKFTc/wifpepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/WIFPEPE"
+        },
+        {
+          "asset": "OUTLINEPEPE",
+          "cardName": "OUTLINEPEPE",
+          "creatorName": "Stew",
+          "creatorSocial": "https://twitter.com/BeefwithStew",
+          "image": "https://ujz7fvsxfagb47eyvqipv7nw5jsbvzmllt6sdo3nbthjzzkvatqq.arweave.net/onPy1lcoDB58mKwQ-v226mQa5Ytc_SG7bQzOnOVVBOE/outlinepepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/OUTLINEPEPE"
+        },
+        {
+          "asset": "NUEVAYORK",
+          "cardName": "NUEVAYORK",
+          "creatorName": "Al Fernandez",
+          "creatorSocial": "https://twitter.com/al_fernandz",
+          "image": "https://tlvqwzcwn3d4hq643ptnqb7i7pj3lphqndm2nmwcoc47qhwoydjq.arweave.net/musLZFZux8PD3Nvm2Afo-9O1vPBo2aaywnC5-B7OwNM/nuevayork.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/NUEVAYORK"
+        },
+        {
+          "asset": "IAMTHEBOMB",
+          "cardName": "IAMTHEBOMB",
+          "creatorName": "Sascha & Lucy",
+          "creatorSocial": "https://twitter.com/Saschabailey",
+          "image": "https://idin3udmjsrdszfwaxmigksohdruzpxaowdtfg66b6v5tmamfxta.arweave.net/QNDd0GxMojlktgXYgypOOONMvuB1hzKb3g-r2bAMLeY/iamthebomb.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/IAMTHEBOMB"
+        },
+        {
+          "asset": "QUESTIONPEPE",
+          "cardName": "QUESTIONPEPE",
+          "creatorName": "Justkeys",
+          "creatorSocial": "https://twitter.com/Justkeys2",
+          "image": "https://ye6uixgqkijnmbcbkitlb42ak5k6peal6bqv7hleqs3ih47nh3ka.arweave.net/wT1EXNBSEtYEQVImsPNAV1XnkAvwYV-dZIS2g_PtPtQ/questionpepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/QUESTIONPEPE"
+        },
+        {
+          "asset": "WALLPLUGNFT",
+          "cardName": "WALLPLUGNFT",
+          "creatorName": "Wallplug",
+          "creatorSocial": "https://twitter.com/Wallplugnft",
+          "image": "https://fjik6pr6imjmrwdn7q6sbfxkbgaghwnsbepqh4ae2xjonjieoonq.arweave.net/KlCvPj5DEsjYbfw9IJbqCYBj2bIJHwPwBNXS5qUEc5s/wallplugnft.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/WALLPLUGNFT"
+        },
+        {
+          "asset": "DAYMONG",
+          "cardName": "DAYMONG",
+          "creatorName": "Nightman",
+          "creatorSocial": "https://twitter.com/nightmancrypto",
+          "image": "https://g2ezoukolsdnncr3ipbyi2t2dobnej7krdc733hajvifap6646wq.arweave.net/NomXUU5chtaKO0PDhGp6G4LSJ-qIxf3s4E1QUD_e560/daymong.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DAYMONG"
+        },
+        {
+          "asset": "RAINYNYCPEPE",
+          "cardName": "RAINYNYCPEPE",
+          "creatorName": "subterranean",
+          "creatorSocial": "https://twitter.com/Subterranean_1",
+          "image": "https://pi75xpgel6uxzt6s2tjs2h4imwhkainyj242nntymtbnek3u3x7q.arweave.net/ej_bvMRfqXzP0tTTLR-IZY6gIbhOuaa2eGTC0it03f8/rainynycpepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/RAINYNYCPEPE"
+        },
+        {
+          "asset": "PETRIDISHPEP",
+          "cardName": "PETRIDISHPEP",
+          "creatorName": "Empress Trash",
+          "creatorSocial": "https://twitter.com/Empresstrash",
+          "image": "https://n5me4ph4kba77ixrtexsjyywrim6ko6pa6slesxqbbzlobnuq6ca.arweave.net/b1hOPPxQQf-i8ZkvJOMWihnlO88HpLJK8AhytwW0h4Q/petridishpep.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PETRIDISHPEP"
+        },
+        {
+          "asset": "PEPEERAS",
+          "cardName": "PEPEERAS",
+          "creatorName": "JULIAGULIA",
+          "creatorSocial": "",
+          "image": "https://nmxr2b7jsgdii7523x73bqex76k2openntbuj3zor2d6lgqmaxya.arweave.net/ay8dB-mRhoR_ut3_sMCX_5WnPI1sw0TvLo6H5ZoMBfA/pepeeras.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEERAS"
+        },
+        {
+          "asset": "RAREPEPEZERO",
+          "cardName": "RAREPEPEZERO",
+          "creatorName": "Adam McBride",
+          "creatorSocial": "https://twitter.com/adamamcbride",
+          "image": "https://isf5bmltq4jnbpfkj74i64xagzxc4nfqfskpqnpis47xbmkdi2ca.arweave.net/RIvQsXOHEtC8qk_4j3LgNm4uNLAslPg16Jc_cLFDRoQ/rarepepezero.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/RAREPEPEZERO"
+        },
+        {
+          "asset": "SHERBINSKISP",
+          "cardName": "SHERBINSKISP",
+          "creatorName": "J B",
+          "creatorSocial": "https://twitter.com/JPegKillah",
+          "image": "https://d242uh4lvfuzyes4zomk6d3wg3uqjfna2xjm57w67t2yihn3utlq.arweave.net/HrmqH4upaZwSXMuYrw92NukElaDV0s7-3vz1hB27pNc/sherbinskisp.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/SHERBINSKISP"
+        },
+        {
+          "asset": "WILDPEPENYC",
+          "cardName": "WILDPEPENYC",
+          "creatorName": "maarmapa",
+          "creatorSocial": "https://twitter.com/maarmapa",
+          "image": "https://5wut6witrerjkmozqcng7t3kkc7eluogjw26iupkywp7tl3i3crq.arweave.net/7ak_WROJIpUx2YCab89qUL5F0cZNteRR6sWf-a9o2KM/wildpepenyc.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/WILDPEPENYC"
+        },
+        {
+          "asset": "NYCCOMMON",
+          "cardName": "NYCCOMMON",
+          "creatorName": "Arwyn",
+          "creatorSocial": "https://twitter.com/mrarwyn",
+          "image": "https://at5xjfxgnzelzs5jyduqsyz6yse4qhz5lvlvsubau3q5ui6oyrrq.arweave.net/BPt0luZuSLzLqcDpCWM-xInIHz1dV1lQIKbh2iPOxGM/nyccommon.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/NYCCOMMON"
+        },
+        {
+          "asset": "PEPEAFRAME",
+          "cardName": "PEPEAFRAME",
+          "creatorName": "Davesta",
+          "creatorSocial": "https://x.com/davesta_xcp",
+          "image": "https://xkslma3rkqvhjggcilfugtxn6epmz7n4l4vtpegq2f7drfeonkaq.arweave.net/uqS2A3FUKnSYwkLLQ07t8R7M_bxfKzeQ0NF-OJSOaoE/pepeaframe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEAFRAME"
+        },
+        {
+          "asset": "BIGAPPLEPEPE",
+          "cardName": "BIGAPPLEPEPE",
+          "creatorName": "Shawn Leary",
+          "creatorSocial": "https://twitter.com/shawnleary",
+          "image": "https://alh5tmh4revryaljp3audn2xuxxl4x2ry3awjjyd6k643ld77fwq.arweave.net/As_ZsPyJKxwBaX7BQbdXpe6-X1HGwWSnA_K9zax_-W0/bigapplepepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BIGAPPLEPEPE"
+        }
+      ]
+    },
+    {
+      "seriesName": "Series 3 (South Carolina 2024)",
+      "seriesNumber": 3,
+      "cards": [
+        {
+          "asset": "PEPEONMARS",
+          "cardName": "PEPEONMARS",
+          "creatorName": "Obama Yo Mama",
+          "creatorSocial": "https://x.com/Techversetrends",
+          "image": "https://7lrvxmp47bu35n2mnwmqd2wec5fiz7br4ycknmbujnsnppqisjta.arweave.net/-uNbsfz4ab63TG2ZAerEF0qM_DHmBKawNEtk174IkmY/pepeonmars.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEONMARS"
+        },
+        {
+          "asset": "PEPEMIGOS",
+          "cardName": "PEPEMIGOS",
+          "creatorName": "Xinglu Lin",
+          "creatorSocial": "https://x.com/linxinglu",
+          "image": "https://vh5p47a3bhaqatailiu3ks2eyljcyuxxzrlt7sfgpulrf33x3qda.arweave.net/qfr-fBsJwQBMCFoptUtEwtIsUvfMVz_Ipn0XEu933AY/pepemigos.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEMIGOS"
+        },
+        {
+          "asset": "PEPEFESTXW",
+          "cardName": "PEPEFESTXW",
+          "creatorName": "XWAVE",
+          "creatorSocial": "https://x.com/XWAVEart",
+          "image": "https://ocm2haukh7rxyvmfj3lyxjij3x2ogrvzdvsmfyljmed3gcklg5la.arweave.net/cJmjgoo_43xVhU7Xi6UJ3fTjRrkdZMLhaWEHswlLN1Y/pepefestxw.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEFESTXW"
+        },
+        {
+          "asset": "CASIOEPEPE",
+          "cardName": "CASIOEPEPE",
+          "creatorName": "Forest",
+          "creatorSocial": "https://x.com/forestanderson",
+          "image": "https://5lzzvqxkcwbdarjyimvla7uk234u23xpsw7pb2gqf7khtqhe5m6q.arweave.net/6vOawuoVgjBFOEMqsH6K1vlNbu-VvvDo0C_UecDk6z0/casioepepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CASIOEPEPE"
+        },
+        {
+          "asset": "GRNDELUSN",
+          "cardName": "GRNDELUSN",
+          "creatorName": "Uttam Grandhi",
+          "creatorSocial": "https://x.com/uttamg911",
+          "image": "https://tblfokqh4m4jyo66zbkjguvrzj2jyefwcskpda6yzcpiny6n3jfq.arweave.net/mFZXKgfjOJw73shUk1KxynScELYUlPGD2MiehuPN2ks/grndelusn.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/GRNDELUSN"
+        },
+        {
+          "asset": "PEPEDRAWING",
+          "cardName": "PEPEDRAWING",
+          "creatorName": "gmm",
+          "creatorSocial": "https://x.com/gmmoneyeth",
+          "image": "https://2pdsgfamqr6cnfeqenkixdi34qd2irq4pxrocuhiqciucgdyipqq.arweave.net/08cjFAyEfCaUkCNUi40b5AekRhx94uFQ6ICRQRh4Q-E/pepedrawing.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEDRAWING"
+        },
+        {
+          "asset": "BLINKINGPEPE",
+          "cardName": "BLINKINGPEPE",
+          "creatorName": "Andrea Guth",
+          "creatorSocial": "",
+          "image": "https://sww5c3ztv7jjqkz5ewgo4s2epmawe6ajjbd6bxjkco55pngbnf3q.arweave.net/la3RbzOv0pgrPSWM7ktEewFieAlIR-DdKhO717TBaXc/blinkingpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BLINKINGPEPE"
+        },
+        {
+          "asset": "GRNENFUEGO",
+          "cardName": "GRNENFUEGO",
+          "creatorName": "Nickitast",
+          "creatorSocial": "https://x.com/Nickitast",
+          "image": "https://qxqzmodmbzcanaoa5oxmkdzxodyzk45hlup7wigvz2kv4cqvscra.arweave.net/heGWOGwORAaBwOuuxQ83cPGVc6ddH_sg1c6VXgoVkKI/grnenfuego.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/GRNENFUEGO"
+        },
+        {
+          "asset": "KRYPTOPEPE",
+          "cardName": "KRYPTOPEPE",
+          "creatorName": "KRYPTO2009",
+          "creatorSocial": "https://x.com/Krypto2009",
+          "image": "https://jekkwiu5jfy427hozxycgneydpeqfvqsdxxurzb7rcema3ot45oq.arweave.net/SRSrIp1Jcc187s3wIzSYG8kC1hId70jkP4iIwG3T510/kryptopepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/KRYPTOPEPE"
+        },
+        {
+          "asset": "MIQUEPEPE",
+          "cardName": "MIQUEPEPE",
+          "creatorName": "Mario Figueroa",
+          "creatorSocial": "",
+          "image": "https://n5vvetjcsb63bozygoznao7id2x3dgamaqv5jsyucda42tuebvia.arweave.net/b2tSTSKQfbC7ODOy0DvoHq-xmAwEK9TLFBDBzU6EDVA/miquepepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MIQUEPEPE"
+        },
+        {
+          "asset": "PEPEPROBLEM",
+          "cardName": "PEPEPROBLEM",
+          "creatorName": "",
+          "creatorSocial": "",
+          "image": "https://vd4vzogeifdycabs623gsmpbnqjgxwedwirc4hwqf3nnz4jtmrwq.arweave.net/qPlcuMRBR4EAMva2aTHhbBJr2IOyIi4e0C7a3PEzZG0/pepeproblem.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEPROBLEM"
+        },
+        {
+          "asset": "RIBBITING",
+          "cardName": "RIBBITING",
+          "creatorName": "Jeb",
+          "creatorSocial": "",
+          "image": "https://jyvvjn4nimbbdbheplezsuyvr7arivyhea4nriwg2bsek6xjp5uq.arweave.net/TitUt41DAhGE5HrJmVMVj8EUVwcgONiixtBkRXrpf2k/ribbiting.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/RIBBITING"
+        },
+        {
+          "asset": "DARTHPEPEE",
+          "cardName": "DARTHPEPEE",
+          "creatorName": "Topshot",
+          "creatorSocial": "https://x.com/Topshot",
+          "image": "https://puegrxtpwjp3irg3p7sgtw7xnfsvkh4vtjvj352a52aucl4kuega.arweave.net/fQho3m-yX7RE23_kadv3aWVVH5Waap33QO6BQS-KoQw/darthpepee.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DARTHPEPEE"
+        },
+        {
+          "asset": "DIAGRAMMATIC",
+          "cardName": "DIAGRAMMATIC",
+          "creatorName": "AppoloDoge",
+          "creatorSocial": "https://x.com/Apollodoge",
+          "image": "https://e2l4owee4ze5gowewgezluezox7panad32t6tq6egwbclej2ij5a.arweave.net/JpfHWITmSdM6xLGJldCZdf7wNAPep-nDxDWCJZE6Qno/diagrammatic.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DIAGRAMMATIC"
+        },
+        {
+          "asset": "CHARLESTON",
+          "cardName": "CHARLESTON",
+          "creatorName": "Mr. & Mrs. Dita",
+          "creatorSocial": "https://x.com/Ditacrypto",
+          "image": "https://yqqrkr6wlpb6kypp2k4wwej3gcvyrd7gq24lrghutkruc4qfny5a.arweave.net/xCEVR9Zbw-Vh79K5axE7MKuIj-aGuLiY9JqjQXIFbjo/charleston.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CHARLESTON"
+        },
+        {
+          "asset": "PEPETHEPEEN",
+          "cardName": "PEPETHEPEEN",
+          "creatorName": "Alejandro Ackermann",
+          "creatorSocial": "",
+          "image": "https://73zxowhwvdchdbycddap6uc2mmkwuwyebbwqpy2aj7bzqeb4wxvq.arweave.net/_vN3WPaoxHGHAhjA_1BaYxVqWwQIbQfjQE_DmBA8tes/pepethepeen.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPETHEPEEN"
+        },
+        {
+          "asset": "TRIPEPEPE",
+          "cardName": "TRIPEPEPE",
+          "creatorName": "Lc",
+          "creatorSocial": "https://x.com/Liindsaycalzini",
+          "image": "https://474ctxlvblkx4ekjcjgvxvapcozvngbcqgjz3lrdrxffc7uzjipq.arweave.net/5_gp3XUK1X4RSRJNW9QPE7NWmCKBk52uI43KUX6ZSh8/tripepepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/TRIPEPEPE"
+        },
+        {
+          "asset": "PORKPEPEFORK",
+          "cardName": "PORKPEPEFORK",
+          "creatorName": "whirlygirl",
+          "creatorSocial": "https://x.com/DegenWearables",
+          "image": "https://l42cauw7phq2sax7hpqnpdffm7oqh6x2jnarcfunhtvhrvomrlwa.arweave.net/XzQgUt954akC_zvg14ylZ90D-vpLQREWjTzqeNXMiuw/porkpepefork.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PORKPEPEFORK"
+        },
+        {
+          "asset": "BEEPLESTUDIO",
+          "cardName": "BEEPLESTUDIO",
+          "creatorName": "",
+          "creatorSocial": "",
+          "image": "https://z537gqnqm422emv6ixjr5h3z4bbws54vwc43grhwyxsme7pbmbaq.arweave.net/z3fzQbBnNaIyvkXTHp954ENpd5WwubNE9sXkwn3hYEE/beeplestudio.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BEEPLESTUDIO"
+        },
+        {
+          "asset": "TOASTYPEPE",
+          "cardName": "TOASTYPEPE",
+          "creatorName": "Remi",
+          "creatorSocial": "",
+          "image": "https://jt3fpq5epkuvnouvcqe5kdwe5ap3tutcrnuvkngqboz6snubycgq.arweave.net/TPZXw6R6qVa6lRQJ1Q7E6B-50mKLaVU00Auz6TaBwI0/toastypepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/TOASTYPEPE"
+        },
+        {
+          "asset": "DUDELADY",
+          "cardName": "DUDELADY",
+          "creatorName": "Allison",
+          "creatorSocial": "https://x.com/Asprocket_nft",
+          "image": "https://bzfgvtjhdowwg36f5rc6jx2dvbzzw2vprjopymtkdvqsloxgkweq.arweave.net/DkpqzScbrWNvxexF5N9DqHObaq-KXPwyah1hJbrmVYk/dudelady.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DUDELADY"
+        },
+        {
+          "asset": "MPGA",
+          "cardName": "MPGA",
+          "creatorName": "Dita Crypto",
+          "creatorSocial": "https://x.com/ditacrypto",
+          "image": "https://4yd4rdz2l2f4z4ldvb4urydwz7sd6kfik4hgsclnnx7lqq5u67sa.arweave.net/5gfIjzpei8zxY6h5SOB2z-Q_KKhXDmkJbW3-uEO09-Q/mpga.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MPGA"
+        },
+        {
+          "asset": "LORDOFTIDES",
+          "cardName": "LORDOFTIDES",
+          "creatorName": "iggynore",
+          "creatorSocial": "https://x.com/Iggynore",
+          "image": "https://c57g3tfmfhedafdrlc3fgpol7b3fky6d2zj5k77hk2dabrevtmrq.arweave.net/F35tzKwpyDAUcVi2Uz3L-HZVY8PWU9V_51aGAMSVmyM/lordoftides.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/LORDOFTIDES"
+        },
+        {
+          "asset": "PEDEBBY",
+          "cardName": "PEDEBBY",
+          "creatorName": "COMPUTERBLOOD",
+          "creatorSocial": "https://x.com/c0mputerbl00d",
+          "image": "https://chkkfhogow5megmu2emr76lmgqtjtxjisuqc6nh5ttvz4nmxilyq.arweave.net/EdSincZ1usIZlNEZH_lsNCaZ3SiVIC80_ZzrnjWXQvE/pedebby.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEDEBBY"
+        },
+        {
+          "asset": "DAPEPEVERSE",
+          "cardName": "DAPEPEVERSE",
+          "creatorName": "Sebastian Figueredo",
+          "creatorSocial": "",
+          "image": "https://nzior5dx2k3yqoeutjvhbvohcc3mwb4x5ptq7jbymifwcqjkp3jq.arweave.net/blDo9HfSt4g4lJpqcNXHELbLB5fr5w-kOGILYUEqftM/dapepeverse.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DAPEPEVERSE"
+        },
+        {
+          "asset": "STARPP",
+          "cardName": "STARPP",
+          "creatorName": "Laura Perez",
+          "creatorSocial": "",
+          "image": "https://ans4ra3kvxtnj67yavfncbadkpce6r5xj6vkaewzlpy7wg5ngb4q.arweave.net/A2XIg2qt5tT7-AVK0QQDU8RPR7dPqqAS2Vvx-xutMHk/starpp.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/STARPP"
+        },
+        {
+          "asset": "TRIPIT",
+          "cardName": "TRIPIT",
+          "creatorName": "Sunnydayz",
+          "creatorSocial": "https://x.com/Sunnydayzsoon",
+          "image": "https://h3mrkgrhb5kbnac4lae7ycrphz7cb3yjqe3mfjpacod5lyezufpq.arweave.net/PtkVGicPVBaAXFgJ_AovPn4g7wmBNsKl4BOH1eCZoV8/tripit.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/TRIPIT"
+        },
+        {
+          "asset": "BEFESTICQ",
+          "cardName": "BEFESTICQ",
+          "creatorName": "ICQPEPE",
+          "creatorSocial": "",
+          "image": "https://56yjo5qfn7qwyu3cje54wkkxdyofom6upjtj6vel6gpzqxk7aa6q.arweave.net/77CXdgVv4WxTYkk7yylXHhxXM9R6Zp9Ui_GfmF1fAD0/beefsticq.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BEFESTICQ"
+        },
+        {
+          "asset": "PEPEWALDOS",
+          "cardName": "PEPEWALDOS",
+          "creatorName": "Avida Waldos",
+          "creatorSocial": "https://x.com/Groundzero_eth",
+          "image": "https://gbox57sx2vmrpeytmneaag56e2v4n3wxy6rfpmmmpmbk3lcqvuza.arweave.net/MF1-_lfVWReTE2NIABu-JqvG7tfHolexjHsCraxQrTI/pepewaldos.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEWALDOS"
+        },
+        {
+          "asset": "WEALLRSTARS",
+          "cardName": "WEALLRSTARS",
+          "creatorName": "Joe Figlerski ~ Vampyre Ink",
+          "creatorSocial": "https://x.com/Vampyreink",
+          "image": "https://wuy3s53grh2tww2fuftdwdqyzwbaqv3mnmh6eksnacdhlfxigukq.arweave.net/tTG5d2aJ9TtbRaFmOw4YzYIIV2xrD-IqTQCGdZboNRU/weallrstars.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/WEALLRSTARS"
+        },
+        {
+          "asset": "CLOSEUPPPEPE",
+          "cardName": "CLOSEUPPPEPE",
+          "creatorName": "Jonny Vendetta",
+          "creatorSocial": "",
+          "image": "https://5w3ayhh2iq6xlrj3ecamgu7tj23rhrltfmxg3aorzs6pbfemge7a.arweave.net/7bYMHPpEPXXFOyCAw1PzTrcTxXMrLm2B0cy88JSMMT4/closeupppepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CLOSEUPPPEPE"
+        },
+        {
+          "asset": "CROSSTHELINE",
+          "cardName": "CROSSTHELINE",
+          "creatorName": "illezo",
+          "creatorSocial": "https://x.com/illezoETH",
+          "image": "https://ljqukbemd4hiz5ojikviipcmbf7jtg7w3c2aipzev67xs4xvaijq.arweave.net/WmFFBIwfDoz1yUKqhDxMCX6Zm_bYtAQ_JK-_eXL1AhM/crosstheline.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CROSSTHELINE"
+        },
+        {
+          "asset": "PEPICHAD",
+          "cardName": "PEPICHAD",
+          "creatorName": "Degenun",
+          "creatorSocial": "https://x.com/Alecpaints",
+          "image": "https://sbwbxn4rx5tqvlnukci3sse3dfj2yo65ntwi6kgculsweybjrfdq.arweave.net/kGwbt5G_ZwqttFCRuUibGVOsO91s7I8owqLlYmApiUc/pepichad.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPICHAD"
+        },
+        {
+          "asset": "BBQPEPES",
+          "cardName": "BBQPEPES",
+          "creatorName": "Richard Perez",
+          "creatorSocial": "https://x.com/Realrichperez",
+          "image": "https://ahocaxho7x2dmegwg2dbb2cr5ivwthhofctbafqgvyylu74c3tqq.arweave.net/AdwgXO799DYQ1jaGEOhR6itpnO4ophAWBq4wun-C3OE/bbqpepes.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BBQPEPES"
+        },
+        {
+          "asset": "PUKEPEPE",
+          "cardName": "PUKEPEPE",
+          "creatorName": "Alex Solis",
+          "creatorSocial": "https://x.com/Alexmdc",
+          "image": "https://xivzjs6ur5cy3b5faordi3btrxhzkzjrqvhltp2ytb4ox5quviha.arweave.net/uiuUy9SPRY2HpQOiNGwzjc-VZTGFTrm_WJh46_YUqg4/pukepepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PUKEPEPE"
+        },
+        {
+          "asset": "JEFFPEPSTEIN",
+          "cardName": "JEFFPEPSTEIN",
+          "creatorName": "",
+          "creatorSocial": "",
+          "image": "https://mclcu43in7h6ortohv4nw27izod6sefnnaothi7e6s4y2gh4rq5q.arweave.net/YJYqc2hvz-dGbj1422voy4fpEK1oHTOj5PS5jRj8jDs/jeffpepstein.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/JEFFPEPSTEIN"
+        },
+        {
+          "asset": "BUNJEEJUMPEP",
+          "cardName": "BUNJEEJUMPEP",
+          "creatorName": "Maxwell",
+          "creatorSocial": "https://x.com/maxkarlan",
+          "image": "https://45uiowtaeszwmpzizucqc2xsozppdhl4iolu7yc67c4intxsbywa.arweave.net/52iHWmAks2Y_KM0FAWrydl7xnXxDl0_gXvi4hs7yDiw/bunjeejumpep.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BUNJEEJUMPEP"
+        },
+        {
+          "asset": "BENZPEPE",
+          "cardName": "BENZPEPE",
+          "creatorName": "Matt Waller",
+          "creatorSocial": "",
+          "image": "https://7hliibd3qqmzgrd4ifnd3nit2fiuastafkohvzenz3xuir7y6dwq.arweave.net/-daEBHuEGZNEfEFaPbUT0VFASmAqnHrkjc7vREf48O0/benzpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BENZPEPE"
+        },
+        {
+          "asset": "PEPEBALLOONS",
+          "cardName": "PEPEBALLOONS",
+          "creatorName": "Comfort Creatures",
+          "creatorSocial": "https://x.com/ComfortCreature",
+          "image": "https://gqhzmbbrhc33k3gqqvm7m3dljfvvznurobjj7fuk7clqgmaw4xyq.arweave.net/NA-WBDE4t7Vs0IVZ9mxrSWtctpFwUp-WiviXAzAW5fE/pepeballoons.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEBALLOONS"
+        },
+        {
+          "asset": "GCPEPE",
+          "cardName": "GCPEPE",
+          "creatorName": "Dabb3r",
+          "creatorSocial": "https://x.com/Dabbersdelights",
+          "image": "https://yjxixt6qtrkq3rfinfzp6qpmgsmmrj7fcznx5z56pqfyhiazpeqq.arweave.net/wm6Lz9CcVQ3EqGly_0HsNJjIp-UWW37nvnwLg6AZeSE/gcpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/GCPEPE"
+        },
+        {
+          "asset": "TRENPEPE",
+          "cardName": "TRENPEPE",
+          "creatorName": "RU4REAL",
+          "creatorSocial": "https://x.com/RU4REALim",
+          "image": "https://qo6q7jvkckec6ma66xfbxysrj7e5wmo33xl44z55yk47aecqldpq.arweave.net/g70PpqoSiC8wHvXKG-JRT8nbMdvd185nvcK58BBQWN8/trenpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/TRENPEPE"
+        },
+        {
+          "asset": "SEVENMINPEPE",
+          "cardName": "SEVENMINPEPE",
+          "creatorName": "threepanelcrimes",
+          "creatorSocial": "https://x.com/3panelcrimes",
+          "image": "https://6lyo62e66sxvwnumunonfc3t4phik42kgdgl2rgp6cs55qkjy3yq.arweave.net/8vDvaJ70r1s2jKNc0otz486Fc0owzL1Ez_Cl3sFJxvE/sevenminpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/SEVENMINPEPE"
+        },
+        {
+          "asset": "NOTREAL",
+          "cardName": "NOTREAL",
+          "creatorName": "Jekerman",
+          "creatorSocial": "https://x.com/Jekerman21",
+          "image": "https://m3fzyulcyrvnpzxivwffvdd5nykozjpmwwnyt2mryqtuoj7v4f7q.arweave.net/ZsucUWLEatfm6K2KWox9bhTspey1m4npkcQnRyf14X8/notreal.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/NOTREAL"
+        },
+        {
+          "asset": "RETURNTOFROG",
+          "cardName": "RETURNTOFROG",
+          "creatorName": "Patty Amercani",
+          "creatorSocial": "",
+          "image": "https://kktee7mvrcw6je7vhv3dqobpixhgep6u6ocz6oqokbvrsdn4tera.arweave.net/UqZCfZWIreST9T12ODgvRc5iP9TzhZ86DlBrGQ28mSI/returntofrog.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/RETURNTOFROG"
+        },
+        {
+          "asset": "CUMPEPE",
+          "cardName": "CUMPEPE",
+          "creatorName": "Dr. Greedy",
+          "creatorSocial": "https://x.com/Thedrgreedy",
+          "image": "https://5py5xrcxptvvqm4ftgn73xzdw3grxagf5qkagr4giyymvxthldgq.arweave.net/6_HbxFd861gzhZmb_d8jts0bgMXsFANHhkYwyt5nWM0/cumpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CUMPEPE"
+        },
+        {
+          "asset": "LOWCOUNTRY",
+          "cardName": "LOWCOUNTRY",
+          "creatorName": "LilyRose",
+          "creatorSocial": "",
+          "image": "https://a6rx5o5jvxs2zgoquu63qxrewfyuc7qghr4ytp5iw3ocl3djlnuq.arweave.net/B6N-u6mt5ayZ0KU9uF4ksXFBfgY8eYm_qLbcJexpW2k/lowcountry.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/LOWCOUNTRY"
+        },
+        {
+          "asset": "PEPETERNITY",
+          "cardName": "PEPETERNITY",
+          "creatorName": "Mr. Gloob",
+          "creatorSocial": "",
+          "image": "https://f24stoqzr5hif4h27zs3ykuduspx36a7q67dr252rnxeut3umr4a.arweave.net/LrkpuhmPToLw-v5lvCqDpJ99-B-HvjjruotuSk90ZHg/pepeternity.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPETERNITY"
+        },
+        {
+          "asset": "PEPEANDSALT",
+          "cardName": "PEPEANDSALT",
+          "creatorName": "Volker",
+          "creatorSocial": "https://x.com/yawnfree",
+          "image": "https://iu44u4hgojnry6prmkrjefhsz6lx3jtfsmifrpqgjfuz2h2nzhza.arweave.net/RTnKcOZyWxx58WKikhTyz5d9pmWTEFi-BklpnR9NyfI/pepeandsalt.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEANDSALT"
+        },
+        {
+          "asset": "MOISTNESS",
+          "cardName": "MOISTNESS",
+          "creatorName": "",
+          "creatorSocial": "",
+          "image": "https://u362lttus6ejvubqvbr7zdeobjgm3xin3zewehndlkgp5k5ulqsq.arweave.net/pv2lznSXiJrQMKhj_IyOCkzN3Q3eSWIdo1qM_qu0XCU/moistness.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MOISTNESS"
+        },
+        {
+          "asset": "CHONKY",
+          "cardName": "CHONKY",
+          "creatorName": "DenX",
+          "creatorSocial": "https://x.com/Denx_Sol",
+          "image": "https://acyg2lgnei3rbtwxckn7fssztbtmo4fzx6e2z2draaoc3e5puqda.arweave.net/ALBtLM0iNxDO1xKb8spZmGbHcLm_iazocQAcLZOvpAY/chonky.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CHONKY"
+        },
+        {
+          "asset": "BREAKFASTT",
+          "cardName": "BREAKFASTT",
+          "creatorName": "Nye Ariel",
+          "creatorSocial": "",
+          "image": "https://c3mucts6hvk77xfwyeytxktk5ktmanhhzkeushxtzjyf5jomllua.arweave.net/FtlBTl49Vf_ctsExO6pq6qbANOfKiUke88pwXqXMWug/breakfastt.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BREAKFASTT"
+        },
+        {
+          "asset": "PEPEMCDONALD",
+          "cardName": "PEPEMCDONALD",
+          "creatorName": "Pixelartfighterofficial",
+          "creatorSocial": "https://x.com/Pixelartfighterofficial",
+          "image": "https://4oh33q6crybuaumjuedrv4exj77mp2gklgw3iaeslac4v2icr6bq.arweave.net/44-9w8KOA0BRiaEHGvCXT_7H6MpZrbQAklgFyukCj4M/pepemcdonald.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEMCDONALD"
+        },
+        {
+          "asset": "KAWAIICAT",
+          "cardName": "KAWAIICAT",
+          "creatorName": "Scarlett",
+          "creatorSocial": "https://x.com/Denx_Sol",
+          "image": "https://vusx653z5nxrq7vwjyvtcit2kox5raecn2t6zydh222zxhkgmsgq.arweave.net/rSV_d3nrbxh-tk4rMSJ6U6_YgIJup-zgZ9a1m51GZI0/kawaiicat.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/KAWAIICAT"
+        },
+        {
+          "asset": "BORASPEPE",
+          "cardName": "BORASPEPE",
+          "creatorName": "",
+          "creatorSocial": "",
+          "image": "https://kwdj4ssepe5zsvoqbd7qd2ak45jlktkefcl6wpa33hxotlf7jerq.arweave.net/VYaeSkR5O5lV0Aj_AegK51K1TUQol-s8G9nu6ay_SSM/boraspepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BORASPEPE"
+        },
+        {
+          "asset": "OHIOPEPE",
+          "cardName": "OHIOPEPE",
+          "creatorName": "Crier",
+          "creatorSocial": "https://x.com/Crypto_crier",
+          "image": "https://w6z2ughm6hj37fuxlrdrcjpuccpqimnkl77vcwaqppfat2cmyn4a.arweave.net/t7OqGOzx07-Wl1xHESX0EJ8EMapf_1FYEHvKCehMw3g/ohiopepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/OHIOPEPE"
+        },
+        {
+          "asset": "BLCKHOLEPEPE",
+          "cardName": "BLCKHOLEPEPE",
+          "creatorName": "Uttam Grandhi",
+          "creatorSocial": "https://x.com/uttamg911",
+          "image": "https://7gntfdwl7rwzgofaixgcvoj6vlt75qp2dw7rsejzjfizit23cwba.arweave.net/-Zsyjsv8bZM4oEXMKrk-quf-wfodvxkROUlRlE9bFYI/blckholepepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BLCKHOLEPEPE"
+        },
+        {
+          "asset": "MFERISHPEPE",
+          "cardName": "MFERISHPEPE",
+          "creatorName": "undertow",
+          "creatorSocial": "https://x.com/undertow_tez",
+          "image": "https://fpa6jytevdxlw3nqxue2otmokgely6kguuqq4xpqle3ubi2whbmq.arweave.net/K8Hk4mSo7rttsL0Jp02OUYi8eUalIQ5d8Fk3QKNWOFk/mferishpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MFERISHPEPE"
+        },
+        {
+          "asset": "DIGIMEDICI",
+          "cardName": "DIGIMEDICI",
+          "creatorName": "Pepe de' Medici",
+          "creatorSocial": "https://x.com/pepemedici",
+          "image": "https://dhe4wnxjubilfrhg6ba4j5quchw4s6wz6w7sfe5z66fpi2s5r23q.arweave.net/GcnLNumgULLE5vBBxPYUEe3Jetn1vyKTufeK9Gpdjrc/digimedici.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/DIGIMEDICI"
+        },
+        {
+          "asset": "PLANTPEPE",
+          "cardName": "PLANTPEPE",
+          "creatorName": "MeatMan_Inc",
+          "creatorSocial": "https://x.com/MeatMan_Inc",
+          "image": "https://5tzg64reebhdz2llyt7ugaupkzegkjo3fhjbepyf5wbxejnhqkzq.arweave.net/7PJvciQgTjzpa8T_QwKPVkhlJdsp0hI_Be2DciWngrM/plantpepe.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PLANTPEPE"
+        },
+        {
+          "asset": "CGVWZQ",
+          "cardName": "CGVWZQ",
+          "creatorName": "Snepsid",
+          "creatorSocial": "https://x.com/resnepsid",
+          "image": "https://ja7vqeuk7xtg3jgwcclitxtppw4pkcl4bknvzottbmw3egk2zilq.arweave.net/SD9YEor95m2k1hCWid5vfbj1CXwKm1y6cwstshlayhc/CGVWZQ.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/CGVWZQ"
+        },
+        {
+          "asset": "A1839474188055443647",
+          "cardName": "A1839474188055443647",
+          "creatorName": "gfloof",
+          "creatorSocial": "https://x.com/gflooff",
+          "image": "https://dwfwysogtjyndealkwmknwxwlvoubbenmezpn6262vz6innhuuaq.arweave.net/HYtsScaacNGQC1WYptr2XV1AhI1hMvb7XtVz5DWnpQE/A1839474188055443647.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/A1839474188055443647"
+        },
+        {
+          "asset": "PEPELLAMA",
+          "cardName": "PEPELLAMA",
+          "creatorName": "Gmarz",
+          "creatorSocial": "https://x.com/Gmarz010",
+          "image": "https://yrnfxkpi4vfukdtyfvmrxfwsb7se3xl2jbr4yb4tknib22ofqbva.arweave.net/xFpbqejlS0UOeC1ZG5bSD-RN3XpIY8wHk1NQHWnFgGo/pepellama.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPELLAMA"
+        },
+        {
+          "asset": "OLYMPICP",
+          "cardName": "OLYMPICP",
+          "creatorName": "Renee",
+          "creatorSocial": "https://x.com/hash_producer",
+          "image": "https://gbcw3ldmun4x3cvcvt3y6zktnmqd5ffex425lluhlhnzyhuk5lta.arweave.net/MEVtrGyjeX2Koqz3j2VTayA-lKS_NdWuh1nbnB6K6uY/olympicp.png",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/OLYMPICP"
+        }
+      ]
+    },
+    {
+      "seriesName": "Series 4",
+      "seriesNumber": 4,
+      "cards": [
+        {
+          "asset": "MOOSIQPEPE",
+          "cardName": "MOOSIQPEPE",
+          "creatorName": "Jolly Rabbit",
+          "creatorSocial": "https://x.com/yuubird",
+          "image": "https://arweave.net/lA8fsQywvsQ3ng5CHKV5iCbKQLu3Lyj5TDuBIKh5sDE/moosiqpepe.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MOOSIQPEPE"
+        },
+        {
+          "asset": "SCRILLAMANIA",
+          "cardName": "SCRILLAMANIA",
+          "creatorName": "Arwyn",
+          "creatorSocial": "https://x.com/mrarwyn",
+          "image": "https://arweave.net/083Gvc-NF1nr0mUHr7brGXV59uHVOV6B6KOHyJZlbPo/scrillamania.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/SCRILLAMANIA"
+        },
+        {
+          "asset": "MIAMIBASSPEP",
+          "cardName": "MIAMIBASSPEP",
+          "creatorName": "subterranean",
+          "creatorSocial": "https://x.com/subterranean_1",
+          "image": "https://arweave.net/qR1r1JJPMkMr4joMSAmncBsORR5iJXOhB7QLRWzBE-o/miamibasspepe.jpg",
+          "minted": 808,
+          "link": "https://www.xcp.io/asset/MIAMIBASSPEP"
+        },
+        {
+          "asset": "CHONKYPEPE",
+          "cardName": "CHONKYPEPE",
+          "creatorName": "Shawn Leary",
+          "creatorSocial": "https://x.com/shawnleary",
+          "image": "https://arweave.net/Pufki6Y2jPbBk1vp5m3QI0SnmD3tT8dp0H-oC0MU8Pw/chonkypepe.jpg",
+          "minted": 66,
+          "link": "https://www.xcp.io/asset/CHONKYPEPE"
+        },
+        {
+          "asset": "PEPEBYERS",
+          "cardName": "PEPEBYERS",
+          "creatorName": "WolF",
+          "creatorSocial": "nan",
+          "image": "https://arweave.net/c0FxM-ktCQKYlT2MYYr28b68nuwHJOMD0tBbGIYKfgg/pepebyers.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/PEPEBYERS"
+        },
+        {
+          "asset": "MUCHPEPELOVE",
+          "cardName": "MUCHPEPELOVE",
+          "creatorName": "Vandalo Ruins x P. Faieff",
+          "creatorSocial": "https://x.com/Vandalo_ruins",
+          "image": "https://arweave.net/zKuvdgAhLp9qJUKrVYDsnONLxcfUoPAwUmTG1atotvE/muchpepelove.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/MUCHPEPELOVE"
+        },
+        {
+          "asset": "BURGMASTER",
+          "cardName": "BURGMASTER",
+          "creatorName": "Elandre",
+          "creatorSocial": "https://x.com/Elandre305",
+          "image": "https://arweave.net/psEQPCVe-hobLvMuB7nXkYABFCaIaAmOsdZg_2BKGmg/burgmaster.jpg",
+          "minted": 0,
+          "link": "https://www.xcp.io/asset/BURGMASTER"
+        },
+        {
+          "asset": "TONILANETLC",
+          "cardName": "TONILANETLC",
+          "creatorName": "Wally",
+          "creatorSocial": "https://x.com/wrbpt26",
+          "image": "https://arweave.net/cnTx3clIcuOHNfQcweIiSFXC-RtW5eo2w17_Be2Kd4o/tonilanetlc.jpg",
+          "minted": 126,
+          "link": "https://www.xcp.io/asset/TONILANETLC"
+        }
+      ]
+    }
+  ]
+}
